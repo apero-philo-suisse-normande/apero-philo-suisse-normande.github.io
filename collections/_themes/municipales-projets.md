@@ -18,12 +18,11 @@ Exemples possibles :
 
 - Trouver les moyens de faire en sorte que chacun dans la commune respecte et protège l’environnement.
 
-- Suivre notamment le ratio nombre d’arbres plantés par rapport au nombre d’arbres arraché dans la commune, le faire savoir.
+- Suivre notamment le ratio nombre d’arbres plantés par rapport au nombre d’arbres arrachés dans la commune, le faire savoir.
 
 - Suivre le nombre de tonnes de déchets recyclés et valorisés, en précisant lesquels, le faire savoir.
 
-- Lancer dans les écoles des actions écologiques comme par exemple les jardins partagés, l’éducation au bien manger, le compostage, etc… Les
-enfants pourraient ainsi entraîner leurs parents.
+- Lancer dans les écoles des actions écologiques comme par exemple les jardins partagés, l’éducation au bien manger, le compostage, etc… Les enfants pourraient ainsi entraîner leurs parents.
 
 - Encourager les mobilités douces (vélos et vélos électriques, covoiturage actuellement pas assez développé du fait notamment d’une
 méconnaissance des plateformes comme La Roue Verte, Blabla lines, etc...).
