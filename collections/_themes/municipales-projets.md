@@ -54,8 +54,7 @@ les cantines scolaires.
 
 - Favoriser le développement de « Repair cafés » éventuellement itinérants dans nos communes de Suisse normande...
 
-- Encourager l’implantation sur nos communes de nouveaux commerces issus de modèles d’économie circulaire et/ou solidaire (en appuyant des
-projets soigneusement sélectionnés)
+- Encourager l’implantation sur nos communes de nouveaux commerces issus de modèles d’économie circulaire et/ou solidaire (en appuyant des projets soigneusement sélectionnés)
 
 - Encourager la cohabitation de plusieurs modèles économiques.
 
@@ -63,10 +62,7 @@ projets soigneusement sélectionnés)
 
 - Lancer des ateliers avec les citoyens sur la décroissance pour sauver le climat mais aussi sur les moyens de développer un pouvoir d’achat vert...
 
-- Développer des conseils citoyens, participatifs et consultatifs à tous les niveaux et sur le long terme avec notamment des personnes qualifiées et
-des citoyens intéressés dans chacun des domaines retenus...
-
+- Développer des conseils citoyens, participatifs et consultatifs à tous les niveaux et sur le long terme avec notamment des personnes qualifiées et des citoyens intéressés dans chacun des domaines retenus...
 
 Le Collectif Ataraxia
-
 Le 30/01/2020
