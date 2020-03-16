@@ -37,6 +37,7 @@ poster-link: documents/affiche-menuiserie.pdf
     </div>
     <br /><br />
     <div style="">
+        <strong style="color: red">L'apéro philo du 17 mars est reporté</strong>
         <a href="{{page.poster-link}}">
             <img data-src="{{page.poster}}" class="lazyload" alt=""/>
         </a>

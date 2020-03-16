@@ -13,6 +13,7 @@ video1: j4sYh9WWwYA
 video2: LF-dITBYuZw
 ---
 
+**L'apéro philo est reporté**
 
 
 Afin de préparer cet apéro-philo, nous vous conseillons de prendre connaissance des informations ci-dessous.
