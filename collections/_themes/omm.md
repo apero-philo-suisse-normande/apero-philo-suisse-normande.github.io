@@ -3,14 +3,14 @@ layout : page
 title : ONU INFO
 ---
 
-L'actualité mondiale
-Un regard humain
+*L'actualité mondiale*
+*Un regard humain*
      
-Répercussions croissantes du changement climatique sur l’atmosphère, les terres et les océans (OMM)
+# Répercussions croissantes du changement climatique sur l’atmosphère, les terres et les océans (OMM)
 
 10 mars 2020
 
-Changement climatique
+# Changement climatique
 Un nouveau rapport élaboré par l’Organisation météorologique mondiale (OMM) et ses partenaires attire l’attention sur les manifestations physiques du changement climatique, telles que l’augmentation de la chaleur océanique et continentale, l’accélération de l’élévation du niveau de la mer et la fonte des glaces.
 
 Le rapport a été présenté mardi lors d’une conférence de presse du Secrétaire général des Nations Unies, António Guterres,  et du Secrétaire général de l'OMM, Petteri Taalas, au siège de l’ONU à New York. Le document réunit des informations sur les impacts des phénomènes météorologiques et climatiques sur le développement socio-économique, la santé humaine, les migrations et les déplacements de population, la sécurité alimentaire et les écosystèmes terrestres et marins.
