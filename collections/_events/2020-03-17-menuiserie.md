@@ -13,7 +13,7 @@ video1: j4sYh9WWwYA
 video2: LF-dITBYuZw
 ---
 
-**L'apéro philo est reporté**
+**L'apéro philo est reporté en raison de la pandémie du coronavirus et du confinement corollaire**
 
 
 Afin de préparer cet apéro-philo, nous vous conseillons de prendre connaissance des informations ci-dessous.
