@@ -5,8 +5,8 @@
 layout: default
 lang: fr
 
-poster: documents/affiche-menuiserie.jpg
-poster-link: documents/affiche-menuiserie.pdf
+poster: documents/affiches/affiche-2020-04-21-zoom.jpg
+poster-link: documents/affiches/affiche-2020-04-21-zoom.pdf
 ---
 
 <div id="values" style="">
@@ -37,9 +37,8 @@ poster-link: documents/affiche-menuiserie.pdf
     </div>
     <br /><br />
     <div style="">
-        <strong style="color: red">L'apéro philo du 17 mars est reporté</strong>
         <a href="{{page.poster-link}}">
-            <img data-src="{{page.poster}}" class="lazyload" alt=""/>
+            <img data-src="{{page.poster}}" class="lazyload" alt="21 avril 2020 à 19h sur Zoom"/>
         </a>
         <br />
         <!-- 17 mars 2010 à 19h à La Menuiserie de Clécy  -->
