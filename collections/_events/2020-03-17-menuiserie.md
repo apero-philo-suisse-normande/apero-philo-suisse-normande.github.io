@@ -11,9 +11,17 @@ place: La Menuiserie
 
 video1: j4sYh9WWwYA
 video2: LF-dITBYuZw
+
+
+poster: ../documents/affiche-menuiserie.jpg
+poster-link: ../documents/affiche-menuiserie.pdf
 ---
 
 **L'apéro philo est reporté en raison de la pandémie du coronavirus et du confinement corollaire**
+
+<a href="{{page.poster-link}}">
+    <img data-src="{{page.poster}}" class="lazyload" alt=""/>
+</a>
 
 
 Afin de préparer cet apéro-philo, nous vous conseillons de prendre connaissance des informations ci-dessous.
