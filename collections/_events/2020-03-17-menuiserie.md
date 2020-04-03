@@ -6,7 +6,7 @@ theme: "C’est les municipales : qu'est-ce qu’on fait ?"
 date: 2020-01-01
 
 eventdate: 2020-03-17T19:00:00+0100
-town: Clécy
+town: Clécy - reporté en raison du confinement
 place: La Menuiserie
 
 video1: j4sYh9WWwYA
