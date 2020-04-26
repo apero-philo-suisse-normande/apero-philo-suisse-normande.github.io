@@ -14,7 +14,9 @@ video2: j48hBShnfB0
 
 **Apéro philo du 3 décembre 2019 au Quai d'Harcourt**
 
-Le climat varie, il a toujours varié. C'est une question d'échelle de
+##1- Texte introductif écrit et lu par Bruce Dévernois
+
+**Le climat varie, il a toujours varié.** C'est une question d'échelle de
 temps. Au Quaternaire, sous l'influence principale de Jupiter et Saturne
 les variations de l'ellipse que parcoure la Terre autour du soleil
 (cycle entre 100 000 et 400 00 ans) et l'inflexion de l'axe de rotation
@@ -25,9 +27,9 @@ sous le nom de « cycles de Milankovitch ». En particulier les variations
 de l'axe de rotation de la Terre expliquent en gros la suite des
 périodes de glaciation qu'a connu la Terre\...
 
-Mais, depuis le siècle dernier, l'homme est devenu la cause majeure du
+**Mais, depuis le siècle dernier, l'homme est devenu la cause majeure du
 changement climatique à l'échelle d'un siècle : il s'agit de l'émission
-des gaz à effet de serre. En fait les gaz tri-atomiques, notamment et
+des gaz à effet de serre.** En fait les gaz tri-atomiques, notamment et
 principalement le CO2 (un peu de chimie) sont transparents au
 rayonnement solaire, mais sont opaques au rayonnement infra-rouge de la
 terre ; d'où un réchauffement des couches basses de l'atmosphère et du
@@ -51,11 +53,11 @@ s'inverser à terme (avec le réchauffement) ; le deuxième c'est la
 photosynthèse , c'est à dire la transformation par les plantes du CO2 en
 oxygène et carbone.
 
-Si demain matin, on arrêtait totalement les émissions de gaz à effet de
+**Si demain matin, on arrêtait totalement les émissions de gaz à effet de
 serre, provenant de la consommation des énergies fossiles (soit les 2/3
 de l'énergie primaire consommée dans le monde et en France aussi), il
 faudrait environ 1 siècle pour que le surplus de CO2 qu'on a créé soit
-diminué de 60 % par ces deux phénomènes. Il en resterait encore 20 %
+diminué de 60 % par ces deux phénomènes.** Il en resterait encore 20 %
 dans mille ans et 10 % dans dix mille ans. Il est important d'avoir ces
 ordres de grandeur en tête pour le débat que nous allons avoir. En
 conclusion, nous sommes en face d'un processus fondamentalement
@@ -66,11 +68,11 @@ qu'aujourd'hui.
 Autre sujet, c'est que nous sommes des animaux qui fonctionnont avec nos
 sens et donc nous essayons et nous arrêtons si ça ne colle pas. Sauf que
 dans le changement climatique il n'y a pas de bouton reset : on ne peut
-pas arrêter si ça ne colle pas. Nous ne nous rendons pas compte non plus
+pas arrêter si ça ne colle pas. **Nous ne nous rendons pas compte non plus
 ce que ça fait 5° en moyenne de réchauffement climatique d'ici la fin
 du siècle, ce qui est aujourd'hui probable, le dernier rapport du GIEC
 parlant maintenant suivant les modèles utilisés d'un réchauffement de 3
-à 7° d'ici 2100.
+à 7° d'ici 2100.**
 
 Cinq degrés en moyenne d'ici la fin du siècle, pour avoir un ordre
 d'idée, c'est ce qui a séparé les périodes de glaciation des périodes
@@ -82,17 +84,17 @@ Comme arrêter les émissions de gaz à effet de serre est d'autant moins
 facile que les deux tiers de l'énergie mondiale (comme nous l'avons déjà
 vue) que nous consommons aujourd'hui sont des énergies fossiles, donc
 émettrices de ces fameux gaz, y compris en France, qu'on décrit comme un
-pays tout nucléaire à tort, il est à peu près certain maintenant, sauf
+pays tout nucléaire à tort, **il est à peu près certain maintenant, sauf
 arrêt quasiment complet de la croissance basée sur la consommation
-d'énergie, que l'on va dans le mur le pied à fond sur l'accélérateur.
+d'énergie, que l'on va dans le mur le pied à fond sur l'accélérateur.**
 
 De plus, le réchauffement climatique va entraîner le dégel accéléré du 
 permafrost, rempli de matières organiques et végétales. Un problème 
 majeur lorsque l'on sait que la quantité de CO2 piégée dans le permafrost
 équivaut à quatre fois celle que les activités humaines ont émise depuis
-le milieu du XIXe siècle, sans compter la libération de méthane (CH4) ainsi 
+le milieu du XIXe siècle, sans compter la **libération de méthane (CH4) ainsi 
 que de nombreux virus et bactéries des temps anciens piégés dans ces 
-glaces... Donc, notamment, la montée de bien plus de 3° de la température
+glaces...** Donc, notamment, la montée de bien plus de 3° de la température
 moyenne mondiale d'ici la fin du présent siècle est quasiment acquise...
 
 Je vous laisse imaginer ce que voudrait dire un arrêt de la croissance
@@ -103,10 +105,10 @@ crises en amérique latine (Equateur, Chili, Bolivie, Argentine,
 notamment), au Moyen Orient (Liban, etc\...), dans la France d'outre-mer
 (Mayotte, La Réunion\...)\...
 
-Comme nos gouvernants ne comprennent pas cette approche systémique de
+**Comme nos gouvernants ne comprennent pas cette approche systémique de
 l'énergie, ils sont incapables de l'expliquer et de donner la parole aux
 gens pour que ces derniers inventent par eux-mêmes des solutions de
-décroissance dans la solidarité. Au lieu de cela nos gouvernants sont
+décroissance dans la solidarité.** Au lieu de cela nos gouvernants sont
 toujours à vouloir concilier la quadrature du cercle : croissance et
 diminution des gaz à effet de serre\... Comme de plus on ne dispose pas
 d'un gouvernement mondial pour d'une part expliquer d'autre part
@@ -117,15 +119,15 @@ Pourtant la croissance qui est corrélée avec la consommation en volume
 de l'énergie fossile conventionnelle, est, depuis le pic atteint aux
 alentours de 2008 selon les parties dans le monde, en train de ralentir
 partout avec son cortège de révoltes pour cause de baisse de pouvoir
-d'achat\... La fonte des calottes polaires va produire d'autres drames
+d'achat\... **La fonte des calottes polaires va produire d'autres drames
 avec la modification des courants transocéaniques, notamment la
-disparition du gulf stream et la fin de l'Europe tempérée.
+disparition du gulf stream et la fin de l'Europe tempérée.**
 Paradoxalement, une nouvelle période de glaciation attend l'Europe qui
 ne pourra plus alors nourrir les européens. Nous allons donc assister à
 une inversion des flux migratoires vers le sud\... Comment serons nous
 alors accueillis ?
 
-Autre problème, la population mondiale est proche maintenant de 8
+**Autre problème, la population mondiale** est proche maintenant de 8
 milliards d'habitants alors que, lorsque j'avais 20 ans, nous étions
 plus proches de 2 milliards d'habitants. Prenons le Niger qui est un
 pays sahélien et qui a le plus de naissance par femmes dans le monde. En
@@ -138,15 +140,15 @@ restait le même qu'aujourd'hui, alors ils pourraient être environ 1
 milliard en 2100\... Ce petit pays talonnerait à lui seul la Chine ou
 l'Inde\...
 
-Tout cela dit pour essayer de cerner les enjeux auxquels notre planète
-devra faire face.
+Tout cela dit pour **essayer de cerner les enjeux auxquels notre planète
+devra faire face.**
 
 En particulier, en Europe, pour mettre le pied sur le frein et respecter
 notamment l'accord de Paris signé lors de la COP21 il conviendrait que,
 dans les deux à trois ans qui viennent, nous autres, citoyens européens,
 exigions de nos gouvernants, et cela quelque soit leur tendance
-politique, de réduire massivement nos émissions de gaz à effet de serre
-notamment :
+politique, de **réduire massivement nos émissions de gaz à effet de serre
+notamment :**
 
 -   en fermant toutes les centrales à charbon
 
@@ -189,10 +191,9 @@ intéressante, à l'adresse suivante :
 
 [Conférence de Jean-Marc Jancovici](https://www.youtube.com/watch?v=Vjkq8V5rVy0)
 
-Et, maintenant qu'est-ce qu'on fait ?  A vous tous la parole, les
-échanges et les débats d'idées\...
+**Et, maintenant qu'est-ce qu'on fait ?  A vous tous la parole, les
+échanges et les débats d'idées\...**
 
-*Texte introductif établi par Bruce Dévernois*
 
 ## Sources
 
