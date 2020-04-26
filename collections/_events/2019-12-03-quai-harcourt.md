@@ -206,10 +206,6 @@ intéressante, à l'adresse suivante :
 
 {% include youtube.html id="j48hBShnfB0" %}
 
-- [Energie et climat : quelles interactions avec l’agriculture ?](https://www.youtube.com/watch?v=j48hBShnfB0&feature=push-fr&attr_tag=At2KTvHkC8lEfWdm%3A6)
-
-{% include youtube.html id="j48hBShnfB0" %}
-
 
 #### 4- La presse en parle
 
