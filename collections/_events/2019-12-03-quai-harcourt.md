@@ -14,7 +14,7 @@ video2: j48hBShnfB0
 
 **Apéro philo du 3 décembre 2019 au Quai d'Harcourt**
 
-##1- Texte introductif écrit et lu par Bruce Dévernois
+###1- Texte introductif écrit et lu par Bruce Dévernois
 
 **Le climat varie, il a toujours varié.** C'est une question d'échelle de
 temps. Au Quaternaire, sous l'influence principale de Jupiter et Saturne
@@ -195,7 +195,7 @@ intéressante, à l'adresse suivante :
 échanges et les débats d'idées\...**
 
 
-## Sources
+###2- Sources
 
 -  [projections de population de l'ONU](https://www.un.org/fr/sections/issues-depth/population/index.html)
 
@@ -205,6 +205,6 @@ intéressante, à l'adresse suivante :
 
 {% include youtube.html id="j48hBShnfB0" %}
 
-## La presse en parle
+###3- La presse en parle
 
 - [Article Ouest France](/documents/ouest-france-quai-harcourt.pdf)
