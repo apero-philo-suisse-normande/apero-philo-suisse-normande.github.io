@@ -5,8 +5,8 @@
 layout: default
 lang: fr
 
-poster: documents/affiches/affiche-2020-04-21-zoom.jpg
-poster-link: documents/affiches/affiche-2020-04-21-zoom.pdf
+poster: documents/affiches/affiche-avenir.jpg
+poster-link: ./
 ---
 
 <div id="values" style="">
@@ -36,9 +36,9 @@ poster-link: documents/affiches/affiche-2020-04-21-zoom.pdf
         </a>
     </div>
     <br /><br />
-    <div style="">
-        <a href="{{page.poster-link}}">
-            <img data-src="{{page.poster}}" class="lazyload" alt="21 avril 2020 à 19h sur Zoom"/>
+    <div style="display: block">
+        <a href="{{page.poster-link}}"> 
+            <img data-src="{{page.poster}}" class="lazyload" alt=""/>
         </a>
         <br />
         <!-- 17 mars 2010 à 19h à La Menuiserie de Clécy  -->
