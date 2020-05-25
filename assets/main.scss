@@ -17,4 +17,24 @@ sitemap:
     margin: 5px;
 }
 
+// Adding 'Contents' headline to the TOC
+#markdown-toc::before {
+  content: "Table des matières";
+  font-weight: bold;
+}
+
+
+
+// Using numbers instead of bullets for listing
+#markdown-toc ul {
+  list-style: none;
+}
+
+#markdown-toc {
+  border: 1px solid #000;
+  padding: 1.5em;
+  list-style: none;
+  display: inline-block;
+}
+
 @import "minima";
