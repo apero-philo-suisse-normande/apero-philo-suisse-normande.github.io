@@ -19,7 +19,7 @@ sitemap:
 
 // Adding 'Contents' headline to the TOC
 #markdown-toc::before {
-  content: "Table des matières";
+  content: "Sommaire";
   font-weight: bold;
 }
 
@@ -31,7 +31,7 @@ sitemap:
 }
 
 #markdown-toc {
-  border: 1px solid #000;
+  border: 0px solid #000;
   padding: 1.5em;
   list-style: none;
   display: inline-block;

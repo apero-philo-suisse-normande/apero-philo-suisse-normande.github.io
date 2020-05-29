@@ -286,8 +286,15 @@
 /**
  * Posts
  */
+ .post {
+  background-color: #ffffff66;
+  padding: 10px;
+  border: 1px solid black;
+ }
+
 .post-header {
   margin-bottom: $spacing-unit;
+  
 }
 
 .post-title {
@@ -302,6 +309,8 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  
+  
 
   h2 {
     @include relative-font-size(2);

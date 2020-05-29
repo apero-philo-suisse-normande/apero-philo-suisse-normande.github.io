@@ -23,6 +23,8 @@ poster-link: ../documents/affiches/affiche-menuiserie.pdf
     <img data-src="{{page.poster}}" class="lazyload" alt=""/>
 </a>
 
+* Do not remove this line (it will not be displayed)
+{:toc}
 
 Afin de préparer cet apéro-philo, nous vous conseillons de prendre connaissance des informations ci-dessous.
 

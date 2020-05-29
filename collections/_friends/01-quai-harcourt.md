@@ -4,7 +4,10 @@ title: Le Quai d'Harcourt
 
 ---
 
-Située dans l’ancienne gare de Thury-Harcourt-Le-Hom, ce café épicerie s’est fixée pour but de mettre en valeur le travail des producteurs sur le territoire et de démocratiser l’agriculture biologique locale, le tout en créant un espace d’échanges convivial intergénérationnel pour un large public, inscrit dans le cadre de l’économie sociale et solidaire. Le café épicerie fonctionne sur un modèle associatif à but non lucratif.
+Située dans l’ancienne gare de Thury-Harcourt-Le-Hom, ce café épicerie s’est fixée pour but de mettre en valeur le travail 
+des producteurs sur le territoire et de démocratiser l’agriculture biologique locale, le tout en créant un espace d’échanges 
+convivial intergénérationnel pour un large public, inscrit dans le cadre de l’économie sociale et solidaire. Le café épicerie 
+fonctionne sur un modèle associatif à but non lucratif.
 
 Il y a une partie café qui permet de se restaurer et une partie épicerie avec des produits en vrac locaux, bio et de saison. Sur la terrasse extérieure, on peut profiter à la belle saison d’une collation, à base de produits locaux : fruits et légumes, produits secs en vrac, fromages et produits laitiers, miel, pain ou encore café, tisanes et thé.
 
