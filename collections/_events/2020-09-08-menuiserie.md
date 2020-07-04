@@ -12,8 +12,7 @@ place: La Menuiserie
 
 ---
 
-
-1. Présentation des différentes formes de démocratie
+### 1. Présentation des différentes formes de démocratie
 
 Etymologie : du grec dêmos, peuple, et kratos, pouvoir, autorité.
 
