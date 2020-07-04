@@ -71,3 +71,5 @@ Un système de démocratie participative sera d'autant plus pérenne que toutes 
 **Dans ce système, il convient de ne pas limiter le rôle des citoyens à leur seule consultation** mais il est primordial de prendre son temps en n’oubliant pas de faire délibérer, discuter et échanger effectivement sur les positions entre les différents acteurs citoyens de manière à **co-construire des décisions avec un consensus le plus large possible**.
 
 **Ce qui est d’ailleurs vrai pour les affaires de la cité à l’échelon national comme à l’échelon local, est également vrai au sein des entreprises** où il convient également de faire pénétrer la démocratie participative pour transformer les salariés en acteurs efficaces, éclairés et autonomes de leur vie professionnelle (tout le système de la division actuelle du travail et du capitalisme à faire évoluer)...
+
+### 2. Présentation 
