@@ -73,3 +73,6 @@ Un système de démocratie participative sera d'autant plus pérenne que toutes 
 **Ce qui est d’ailleurs vrai pour les affaires de la cité à l’échelon national comme à l’échelon local, est également vrai au sein des entreprises** où il convient également de faire pénétrer la démocratie participative pour transformer les salariés en acteurs efficaces, éclairés et autonomes de leur vie professionnelle (tout le système de la division actuelle du travail et du capitalisme à faire évoluer)...
 
 ### 2. Exemple de démocratie participative à Kingersheim
+
+- [Présentation courte Kingersheim - portrait du maire](https://www.youtube.com/watch?v=whJ2NGgFwcs)
+
