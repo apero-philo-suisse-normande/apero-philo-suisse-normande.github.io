@@ -107,8 +107,6 @@ Nous avons plus que jamais besoin de l’histoire, de la philosophie et de la ps
 
 ### 7. Démocratie participative : les citoyens ont-ils la main ?
 
-https://www.youtube.com/watch?v=b-tb-2vu67Q
-
 {% include youtube.html id="b-tb-2vu67Q" %}
 
 ### 8. 
