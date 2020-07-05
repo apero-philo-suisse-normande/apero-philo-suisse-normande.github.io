@@ -113,6 +113,39 @@ Nous avons plus que jamais besoin de l’histoire, de la philosophie et de la ps
 
 {% include youtube.html id="INiXBf31Dlw" %}
 
-### 9. 
+### 9. La démocratie participative est-elle un conte de fées ?  
 
-{% include youtube.html id="mf-9UwofhhU&t" %}
+Question présentée par Clément Viktorovitch, né en 1984, politologue et chroniqueur.
+
+Clément Viktorovitch s’exprime sur ce sujet notamment en partant des thèses de **Carole Pateman, féministe, philosophe, politologue et professeur à UCLA**, d’une part, et de celles du **philosophe allemand Jürgen Habermas**, théoricien en sciences sociales, d’autre part. Ces deux personnalités présentent la démocratie participative chacun sous un angle différent. 
+
+Clément Viktorovitch évoque ensuite trois outils et méthodes différents utilisés par la démocratie participative successivement :
+•	**Les budgets participatifs**, notamment avec l’expérience de Porto Alegre au Brésil 
+•	**Le débat public** avec l’expérience française de la CNDP depuis 1995 (Commission Nationale du Débat Public, indépendante depuis 2002 et obligatoirement saisie à partir d’un certain montant d’investissement). Cette commission organise une concertation par projet basée sur l’argumentation, l’équité et la transparence
+•	**Les jurys citoyens** basés sur une vingtaine de personnes tirées au sort pour évaluer et discuter un projet précis comme par exemple les nanotechnologies, les OGM, les enfouissements de déchets nucléaires... Ces jurys citoyens confrontent leur savoirs profanes aux savoirs des experts sur plusieurs semaines, voire sur plusieurs mois un weekend sur deux par exemple, notamment en auditionnant les experts. Au bout du compte ce qui est observé c’est que les citoyens émettent un avis nuancé, complexe et éclairé... Mais cela reste relativement marginal en France... Pourtant cela permet aux citoyens ordinaires de donner leurs avis éclairés...
+
+**Il existe une infinité d’autres moyens de démocratie participative à inventer...**
+
+Clément Viktorovitch nous parle ensuite des **limites de la démocratie participative**, du moins de celles qui sont rencontrées aujourd’hui dans toutes ces expériences : 
+•	Ces expériences ne se déploient aujourd’hui que localement et encore !
+•	Ces expériences sont trop souvent purement consultatives !
+
+Clément Viktorovitch nous parle également de **l’immense espoir qu’a suscité le projet islandais de nouvelle constitution** qui est tombé ensuite à plat au bout de deux ans alors qu’il avait été ratifié par referendum et jugé excellent par la communauté internationale. En fait les élus n’ont pas supporté que le peuple décide par la participation... Le philosophe Jacques Rancière a appelé cela « la haine de la démocratie »...
+
+Finalement plane le risque que ces procédures participatives soient instrumentalisées par les politiciens sous forme de communication... 
+
+Clément Viktorovitch montre ensuite que nous ne sommes pas prêts pour accepter une décision par exemple d’un jury de citoyens tirés au sort  et nous indique que pour l’instant on n’a pas trouvé les moyens de résoudre ce problème de légitimité.
+
+Ensuite, il donne les **explications notamment de Pierre Bourdieu**, mais également d’autres chercheurs concernant la sociologie des électeurs en montrant que chaque vote n’est pas forcément égal. Les électeurs qui ont le plus de diplômes et le plus d’argent s’abstiennent moins que les autres.
+
+Du coup on pourrait penser que le déploiement de la démocratie participative comble ces gouffres entre plus riches et plus pauvres... Ce n’est pas l’avis de Clement Viktorovitch, mais sa démonstration pêche car elle s’appuie sur des formes de démocratie participative qui existent aujourd’hui, comme les conseils de quartiers, mais qui ne fonctionnent pas vraiment... Notamment parce que ne correspondent pas les sujets traités avec les populations concernées... Très difficile à obtenir... Donc il convient de faire très attention à ce point... Et c’est le rôle des élus et donc, **in fine, on mesure toute la difficulté de la mise en œuvre de la démocratie participative...**
+
+Mais dernière objection de Clement Viktorovitch, est-ce que tout cela n’est pas un fantasme de chercheur ? Il évoque alors une étude qui montre notamment que ce n’est pas forcément le souhait des citoyens que de développer la démocratie participative...
+
+Clement Viktorovitch finit néanmoins sur une note optimiste avec **l’exemple de la Colombie Britannique, province du Canada...**
+
+Et il ajoute que quand un dispositif participatif et ses résultats sont très médiatisés, il y a beaucoup plus de chances que cela réussisse et d’amener les citoyens défavorisés à donner leurs avis... Les élus peuvent alors plus difficilement ne pas en tenir compte...
+
+En conclusion, il pense qu’**il ne tient qu’aux citoyens de tranformer la démocratie participative d’un conte de fées en réalité tangible de nos démocraties**...
+
+{% include youtube.html id="J2sZnK-HtJ4" %}
