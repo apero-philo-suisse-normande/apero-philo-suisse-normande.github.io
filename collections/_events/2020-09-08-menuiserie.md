@@ -77,7 +77,7 @@ On ira également regarder la présentation courte de Kingersheim et de son mair
  
 {% include youtube.html id="uX2kTh1V5II&t" %}
 
-### 3. Exemple de démocratie participative commenté et pratiquée par Jean François Caron, maire de Loos-en-Gohelle et membre de EELV
+### 3. Exemple de démocratie participative commenté et pratiqué par Jean François Caron, maire de Loos-en-Gohelle et membre de EELV
 
 Jean-François Caron explique comment, les gens de sa commune du Pas de Calais minier ont changé de regard pour se redonner un futur, comment a été instillé un désir de développement durable avec la participation de tous au processus de décision.
 
