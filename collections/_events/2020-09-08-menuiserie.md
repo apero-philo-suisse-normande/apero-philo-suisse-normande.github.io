@@ -88,3 +88,14 @@ Les habitants acteurs de la commune ont donc travaillé collectivement et énorm
 Les citoyens ont inventé un projet de ville, certes en s‘appuyant sur des dires d’experts et sur la légitimité de leurs représentants élus, mais ce sont eux qui ont décidé in fine avant tout... C’est cela une véritable démocratie participative... Il s’agit de la reprise en main de son destin par une population locale...
 
 {% include youtube.html id="uZFNNN7i734&feature" %}
+
+### 4. Invité de RTL, Jean-François Caron, maire EELV de Loos-en-Gohelle, explique aux auditeurs comment opèrer une véritable transition énergétique co-construite avec les habitants de sa commune
+
+Il presse le président de la République de s'appuyer "sur les réponses qui montent du local".
+
+{% include youtube.html id="VSP9vTkxVvg&feature" %}
+
+### 5. 
+
+{% include youtube.html id="VSP9vTkxVvg&feature" %}
+
