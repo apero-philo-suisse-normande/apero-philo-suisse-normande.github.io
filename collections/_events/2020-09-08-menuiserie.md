@@ -120,14 +120,19 @@ Question présentée par Clément Viktorovitch, né en 1984, politologue et chro
 Clément Viktorovitch s’exprime sur ce sujet notamment en partant des thèses de **Carole Pateman, féministe, philosophe, politologue et professeur à UCLA**, d’une part, et de celles du **philosophe allemand Jürgen Habermas**, théoricien en sciences sociales, d’autre part. Ces deux personnalités présentent la démocratie participative chacun sous un angle différent. 
 
 Clément Viktorovitch évoque ensuite trois outils et méthodes différents utilisés par la démocratie participative successivement :
-•	**Les budgets participatifs**, notamment avec l’expérience de Porto Alegre au Brésil 
+
+•	**Les budgets participatifs**, notamment avec l’expérience de Porto Alegre au Brésil
+
 •	**Le débat public** avec l’expérience française de la CNDP depuis 1995 (Commission Nationale du Débat Public, indépendante depuis 2002 et obligatoirement saisie à partir d’un certain montant d’investissement). Cette commission organise une concertation par projet basée sur l’argumentation, l’équité et la transparence
+
 •	**Les jurys citoyens** basés sur une vingtaine de personnes tirées au sort pour évaluer et discuter un projet précis comme par exemple les nanotechnologies, les OGM, les enfouissements de déchets nucléaires... Ces jurys citoyens confrontent leur savoirs profanes aux savoirs des experts sur plusieurs semaines, voire sur plusieurs mois un weekend sur deux par exemple, notamment en auditionnant les experts. Au bout du compte ce qui est observé c’est que les citoyens émettent un avis nuancé, complexe et éclairé... Mais cela reste relativement marginal en France... Pourtant cela permet aux citoyens ordinaires de donner leurs avis éclairés...
 
 **Il existe une infinité d’autres moyens de démocratie participative à inventer...**
 
-Clément Viktorovitch nous parle ensuite des **limites de la démocratie participative**, du moins de celles qui sont rencontrées aujourd’hui dans toutes ces expériences : 
+Clément Viktorovitch nous parle ensuite des **limites de la démocratie participative**, du moins de celles qui sont rencontrées aujourd’hui dans toutes ces expériences :
+
 •	Ces expériences ne se déploient aujourd’hui que localement et encore !
+
 •	Ces expériences sont trop souvent purement consultatives !
 
 Clément Viktorovitch nous parle également de **l’immense espoir qu’a suscité le projet islandais de nouvelle constitution** qui est tombé ensuite à plat au bout de deux ans alors qu’il avait été ratifié par referendum et jugé excellent par la communauté internationale. En fait les élus n’ont pas supporté que le peuple décide par la participation... Le philosophe Jacques Rancière a appelé cela « la haine de la démocratie »...
