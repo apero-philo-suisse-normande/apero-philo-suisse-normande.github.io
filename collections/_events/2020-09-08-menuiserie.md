@@ -63,7 +63,7 @@ Par rapport à la démocratie représentative et à la démocratie directe, **la
 **Les caractéristiques d'une démocratie participative sont** :
 •	Par exemple, au niveau national, un remplacement des élections par un tirage au sort de citoyens pour constituer des assemblées participatives (voir l’exemple en France de la désignation de 150 cotoyens pour participer à la convention citoyenne sur le climat),
 •	Au niveau local, la réunion de tous les citoyens intéressés par un sujet donné pour éclairer les représentants et co-construire une décision locale (voir notamment les exemples des communes de Loos en Gohelle, Kingersheim et Saillans, à l’initiative en particulier de leurs maires respectifs)...
-•	Une généralisation de cette concertation dynamique, sous forme de débats libres, relative à des décisions aussi bien à échelle nationale que locale,
+•	Une généralisation de cette concertation dynamique, sous forme de débats libres, relative à des décision aussi bien à échelle nationale que locale,
 •	La mise en place de tout système organisé qui garantit que toutes les idées constructives et nouvelles des citoyens seront examinées de manière constructive et efficace.
 
 Un système de démocratie participative sera d'autant plus pérenne que toutes les mesures décidées sont acceptables et acceptées par la grande majorité des personnes concernées et vont dans le sens du "bien commun".
@@ -73,6 +73,6 @@ Un système de démocratie participative sera d'autant plus pérenne que toutes 
 **Ce qui est d’ailleurs vrai pour les affaires de la cité à l’échelon national comme à l’échelon local, est également vrai au sein des entreprises** où il convient également de faire pénétrer la démocratie participative pour transformer les salariés en acteurs efficaces, éclairés et autonomes de leur vie professionnelle (tout le système de la division actuelle du travail et du capitalisme à faire évoluer)...
 
 ### 2. Interview de Jo Spiegel en 2013 à l'occasion de la sortie de son livre "Faire (re)naître la démocratie".
-On ira également regarder la présentation courte par Jo spiegel, son maire
-
+On ira également regarder la présentation courte de Kingersheim et de son maire Jo spiegel, qui font de la démocratie participative depuis fort longtemps sous l'onglet "les thèmes" dans la rubriqye "élections municipales" et "démocratie participative"
+ 
 {% include youtube.html id="uX2kTh1V5II&t" %}
