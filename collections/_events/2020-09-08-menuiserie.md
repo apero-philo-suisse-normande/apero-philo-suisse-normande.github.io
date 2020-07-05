@@ -109,6 +109,10 @@ Nous avons plus que jamais besoin de l’histoire, de la philosophie et de la ps
 
 {% include youtube.html id="b-tb-2vu67Q" %}
 
-### 8. 
+### 8. Un sujet à développer dans le cadre de la démocratie participative : La résilience alimentaire à instituer localement
+
+{% include youtube.html id="INiXBf31Dlw" %}
+
+### 9. 
 
 {% include youtube.html id="mf-9UwofhhU&t" %}
