@@ -95,7 +95,22 @@ Il presse le président de la République de s'appuyer "sur les réponses qui mo
 
 {% include youtube.html id="VSP9vTkxVvg&feature" %}
 
-### 5. 
+### 5. Roland Gori, psychanalyste et philosophe, nous présente son livre « Et si l’effondrement avait déjà eu lieu » sous-titré « L’étrange défaite de nos croyances » 
 
-{% include youtube.html id="VSP9vTkxVvg&feature" %}
+Nous avons plus que jamais besoin de l’histoire, de la philosophie et de la psychanalyse pour nous délivrer de ce passé qui est moins trace, qu’actualité d’une histoire méconnue. Il nous faut sans attendre inventer une nouvelle forme d’utopie fabriquée avec l’étoffe de nos rêves, pensée moins comme le projet d’un avenir meilleur sans cesse repoussé aux calendes grecques que comme l’originalité à saisir à tout moment pour inventer un futur inédit... 
 
+{% include youtube.html id="AJj4B8N30FE&pbjreload" %}
+
+### 6. Saillans : une autre commune pionnière de la démocratie participative en France 
+
+{% include youtube.html id="mf-9UwofhhU&t" %}
+
+### 7. Démocratie participative : les citoyens ont-ils la main ?
+
+https://www.youtube.com/watch?v=b-tb-2vu67Q
+
+{% include youtube.html id="b-tb-2vu67Q" %}
+
+### 8. 
+
+{% include youtube.html id="mf-9UwofhhU&t" %}
