@@ -74,4 +74,4 @@ Un système de démocratie participative sera d'autant plus pérenne que toutes 
 
 ### 2. Exemple de démocratie participative à Kingersheim, présentation courte par Jo spiegel, son maire
 
-{% include youtube.html id="v=uX2kTh1V5II&t=6s" %}
+{% include youtube.html id="uX2kTh1V5II&t" %}
