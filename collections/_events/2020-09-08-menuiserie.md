@@ -75,7 +75,7 @@ Un système de démocratie participative sera d'autant plus pérenne que toutes 
 ### 2. Interview de Jo Spiegel en 2013 à l'occasion de la sortie de son livre "Faire (re)naître la démocratie". Plusieurs philosophes et penseurs y sont invoqués dont Pierre Rosanvallon, Jean-Jacques Rousseau et Hannah Arendt
 On ira également regarder la présentation courte de Kingersheim et de son maire Jo Spiegel, qui font de la démocratie participative depuis fort longtemps sous l'onglet "les thèmes" dans la rubrique "expériences municipales" et "démocratie participative"
  
-{% include youtube.html id="uX2kTh1V5II&t" %}
+{% include youtube.html id="uX2kTh1V5II" %}
 
 ### 3. Exemple de démocratie participative commenté et pratiqué par Jean François Caron, maire de Loos-en-Gohelle et membre de EELV
 
@@ -87,23 +87,23 @@ Les habitants acteurs de la commune ont donc travaillé collectivement et énorm
 
 Les citoyens ont inventé un projet de ville, certes en s‘appuyant sur des dires d’experts et sur la légitimité de leurs représentants élus, mais ce sont eux qui ont décidé in fine avant tout... C’est cela une véritable démocratie participative... Il s’agit de la reprise en main de son destin par une population locale...
 
-{% include youtube.html id="uZFNNN7i734&feature" %}
+{% include youtube.html id="uZFNNN7i734" %}
 
 ### 4. Invité de RTL, Jean-François Caron, maire EELV de Loos-en-Gohelle, explique aux auditeurs comment opèrer une véritable transition énergétique co-construite avec les habitants de sa commune
 
 Il presse le président de la République de s'appuyer "sur les réponses qui montent du local".
 
-{% include youtube.html id="VSP9vTkxVvg&feature" %}
+{% include youtube.html id="VSP9vTkxVvg" %}
 
 ### 5. Roland Gori, psychanalyste et philosophe, nous présente son livre « Et si l’effondrement avait déjà eu lieu » sous-titré « L’étrange défaite de nos croyances » 
 
 Nous avons plus que jamais besoin de l’histoire, de la philosophie et de la psychanalyse pour nous délivrer de ce passé qui est moins trace, qu’actualité d’une histoire méconnue. Il nous faut sans attendre inventer une nouvelle forme d’utopie fabriquée avec l’étoffe de nos rêves, pensée moins comme le projet d’un avenir meilleur sans cesse repoussé aux calendes grecques que comme l’originalité à saisir à tout moment pour inventer un futur inédit... 
 
-{% include youtube.html id="AJj4B8N30FE&pbjreload" %}
+{% include youtube.html id="AJj4B8N30FE" %}
 
 ### 6. Saillans : une autre commune pionnière de la démocratie participative en France 
 
-{% include youtube.html id="mf-9UwofhhU&t" %}
+{% include youtube.html id="mf-9UwofhhU" %}
 
 ### 7. Démocratie participative : les citoyens ont-ils la main ?
 
