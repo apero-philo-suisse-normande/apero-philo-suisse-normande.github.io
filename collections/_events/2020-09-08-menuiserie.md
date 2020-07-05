@@ -76,3 +76,15 @@ Un système de démocratie participative sera d'autant plus pérenne que toutes 
 On ira également regarder la présentation courte de Kingersheim et de son maire Jo Spiegel, qui font de la démocratie participative depuis fort longtemps sous l'onglet "les thèmes" dans la rubrique "expériences municipales" et "démocratie participative"
  
 {% include youtube.html id="uX2kTh1V5II&t" %}
+
+### 3. Exemple de démocratie participative commenté et pratiquée par Jean François Caron, maire de Loos-en-Gohelle et membre de EELV
+
+Jean-François Caron explique comment, les gens de sa commune du Pas de Calais minier ont changé de regard pour se redonner un futur, comment a été instillé un désir de développement durable avec la participation de tous au processus de décision.
+
+Il ne s’agit pas de réunions où l’on s’exprime sur ce qui est présenté mais de décisions prises par tous en responsabilité ; c’est un processus collectif : mettre les gens en situation de co-produire la ville avec une vision qui n’apparaît  que progressivement à tous... C’est très compliqué d’emmener un collectif en disant « on va changer le monde, mais on ne sait pas vers quel monde on va »... 
+
+Les habitants acteurs de la commune ont donc travaillé collectivement et énormément sur les questions de résilience, de droit à l’erreur, de prise d’initiatives, notamment avec des psychologues, pour essayer de comprendre cette capacité à réagir après un choc complétement déstructurant... 
+
+Les citoyens ont inventé un projet de ville, certes en s‘appuyant sur des dires d’experts et sur la légitimité de leurs représentants élus, mais ce sont eux qui ont décidé in fine avant tout... C’est cela une véritable démocratie participative... Il s’agit de la reprise en main de son destin par une population locale...
+
+{% include youtube.html id="uZFNNN7i734&feature" %}
