@@ -17,7 +17,7 @@ permalink: /themes/
     - [Gulf Stream, le talon d’Achille du climat  (documentaire de FR3-Thalassa)](https://www.youtube.com/watch?v=CIJJ4X0cv94)  
   
 
-- Expérience municipales
+- Expériences municipales
   - Démocratie participative
     - [Prendre le pouvoir pour le partager : l’expérience de Saillans](https://www.youtube.com/watch?v=0aJphwiaoNk)
      - [Présentation courte Kingersheim - portrait du maire](https://www.youtube.com/watch?v=whJ2NGgFwcs)  
