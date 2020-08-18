@@ -5,8 +5,8 @@
 layout: default
 lang: fr
 
-poster: documents/affiches/affiche-2020-06-09-zoom.jpg
-poster-link: ./documents/affiches/affiche-2020-06-09-zoom.pdf
+poster: documents/affiches/affiche-2020-09-08.jpg
+poster-link: ./documents/affiches/affiche-2020-09-08.pdf
 ---
 
 <div id="values" style="">
