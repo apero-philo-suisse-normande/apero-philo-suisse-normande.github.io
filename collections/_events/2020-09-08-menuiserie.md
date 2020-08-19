@@ -159,7 +159,7 @@ En conclusion, il pense qu’**il ne tient qu’aux citoyens de tranformer la d�
 ### 10. Démocratie participative : quels outils ? le 15 octobre 2019 à l'auditorium de la Cité des sciences et de l'industrie 
 Invités : Loïc Blondiaux, professeur de science politique à la Sorbonne Paris 1, chercheur au Centre européen de sociologie et de science politique (CESSP).
 Antoine Brachet, directeur exécutif de Bluenove et co-président de Démocratie Ouverte ;
-David Prothais, fondateur du cabinet Eclectic Experience, garant de la Commission nationale du débat public ; Leonore de Roquefeuil, fondatrice d'un media Civic Tech. 
+David Prothais, fondateur du cabinet Eclectic Experience, garant de la Commission nationale du débat public ; Leonore de Roquefeuil, présidente de Voxe, un media Civic Tech. 
  
 {% include youtube.html id="x7olrkg" %}
 
