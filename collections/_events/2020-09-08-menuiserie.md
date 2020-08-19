@@ -154,3 +154,11 @@ Et il ajoute que quand un dispositif participatif et ses résultats sont très m
 En conclusion, il pense qu’**il ne tient qu’aux citoyens de tranformer la démocratie participative d’un conte de fées en réalité tangible de nos démocraties**...
 
 {% include youtube.html id="J2sZnK-HtJ4" %}
+
+### 10. Démocratie participative : quels outils ? le 15 octobre 2019 à l'auditorium de la Cité des sciences et de l'industrie 
+Invités : Loïc Blondiaux, professeur de science politique à la Sorbonne Paris 1, chercheur au Centre européen de sociologie et de science politique (CESSP).
+Antoine Brachet, directeur exécutif de Bluenove et co-président de Démocratie Ouverte ;
+David Prothais, fondateur du cabinet Eclectic Experience, garant de la Commission nationale du débat public ;
+ 
+{% include youtube.html id="x7olrkg" %}
+
