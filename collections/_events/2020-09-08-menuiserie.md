@@ -180,13 +180,13 @@ Il comprend, autour du maire, des élus et des collaborateurs tous ceux qui ont 
 
 *Ci-dessous un exemple de charte de participation démocratique (à adapter à chaque contexte et chaque commune) :*
 
-***1.	Préambule**
+*1.	Préambule*
 
 *La démarche participative s'inscrit dans une volonté de débat, de concertation et de coproduction avec les habitants ainsi qu’avec toutes les ressources humaines de sens, d’intelligence et d’expertise technique et d’usage. Elle propose des pistes de réflexions argumentées qui serviront d'aide à la décision.*
 
 *Le Consiel participatif est à la phase décisive de débat, de concertation et de co-construction ce que le Conseil municipal est à la phase décisionnaire. En effet, le Conseil Municipal, en vertu de la légitimité que lui confère le suffrage universel, est seul détenteur du pouvoir de décision.*
 
-***2.	Engagement de la commune et de ses représentants**
+*2.	Engagement de la commune et de ses représentants*
 
 *La commune s'engage à mettre en œuvre les moyens humains et budgétaires nécessaires au déroulement optimal de la démarche participative.*
 
@@ -204,7 +204,7 @@ Il comprend, autour du maire, des élus et des collaborateurs tous ceux qui ont 
 
 *La commune fera régulièrement le point sur l'avancement du projet. En particulier, tous les habitants de la commune seront informés de la tenue des forums de restitution auxquels ils seront conviés, par tous moyens (voie de presse, via les différents outils de communication mis en place par la commune, via une info SMS oi par mail pour ceux qui disposent des outils correspondants, etc... ).*
 
-***3.	Une éthique de l'engagement**
+*3.	Une éthique de l'engagement*
 
 *Les membres du Conseil Participatif s'engagent à participer rrégulièrement  aux  ateliers  proposés  tout  au long de la démarche. En cas d'absence, ils se tiennent informés par les comptes rendus ou contacts directs avec les techniciens en charge du suivi de la démarche.*
 
