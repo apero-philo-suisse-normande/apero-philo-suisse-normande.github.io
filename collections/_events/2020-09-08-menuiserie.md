@@ -155,6 +155,7 @@ En conclusion, il pense qu’**il ne tient qu’aux citoyens de tranformer la d�
 
 {% include youtube.html id="J2sZnK-HtJ4" %}
 
+
 ### 10. Démocratie participative : quels outils ? le 15 octobre 2019 à l'auditorium de la Cité des sciences et de l'industrie 
 Invités : Loïc Blondiaux, professeur de science politique à la Sorbonne Paris 1, chercheur au Centre européen de sociologie et de science politique (CESSP).
 Antoine Brachet, directeur exécutif de Bluenove et co-président de Démocratie Ouverte ;
@@ -162,3 +163,89 @@ David Prothais, fondateur du cabinet Eclectic Experience, garant de la Commissio
  
 {% include youtube.html id="x7olrkg" %}
 
+
+### 11. La démocratie participative pratiquée depuis vingt ans par le maire de Kingersheim
+
+**Par la mise en place de conseils participatifs :**
+A l’initiative du maire, du conseil municipal ou des habitants, un conseil participatif est créé à chaque fois qu’un projet est mis en agenda. 
+
+Il comprend, autour du maire, des élus et des collaborateurs tous ceux qui ont quelque chose à dire : s’ils sont trop nombreux, ils sont tirés au sort parmi les habitants qui se sont portés volontaires, les membres des associations, les experts, les élus et les collaborateurs, en tout pas plus de 60 à 80 personnes surtout dans une commune de moins de 500 habitants. 
+
+**Il y a trois collèges :** 
+1-	les habitants,
+2-	les partenaires associatifs, les métiers actifs et les experts, 
+3-	les élus et collaborateurs. 
+
+**A été écrite une charte de la participation démocratique qui fixe une éthique de la discussion et précise les engagements de chacun.**
+
+*Ci-dessous un exemple de charte de participation démocratique (à adapter à chaque contexte et chaque commune) :*
+
+***1.	Préambule**
+
+*La démarche participative s'inscrit dans une volonté de débat, de concertation et de coproduction avec les habitants ainsi qu’avec toutes les ressources humaines de sens, d’intelligence et d’expertise technique et d’usage. Elle propose des pistes de réflexions argumentées qui serviront d'aide à la décision.*
+
+*Le Consiel participatif est à la phase décisive de débat, de concertation et de co-construction ce que le Conseil municipal est à la phase décisionnaire. En effet, le Conseil Municipal, en vertu de la légitimité que lui confère le suffrage universel, est seul détenteur du pouvoir de décision.*
+
+***2.	Engagement de la commune et de ses représentants**
+
+*La commune s'engage à mettre en œuvre les moyens humains et budgétaires nécessaires au déroulement optimal de la démarche participative.*
+
+*La commune s'engage en particulier à donner aux membres du Conseil participatif et particulièrement aux habitants, en amont des premières réunions de travail et tout au long de la démarche, les éléments d'informations préalables nécessaires à la compréhension du projet.*
+
+*En l'occurrence, s’agissant du PLU (pragraphe à adapter à chaque projet), une séance d'information sur les grands documents d'aménagement, d'urbanisme ou de programmation à l'échelle du territoire de la commune,  sera organisée ainsi qu'une visite de l'exposition organisée notamment avec l’aide de la commune.*
+
+*La commune s'engage à garder une position neutre dans l'animation des débats ; elle recourt pour ce faire à un tiers extérieur indépendant pour le soutien à la démarche, à l'information des habitants et à la gestion des réunions du conseil participatif.*
+
+*Ce tiers extérieur doit assurer une fonction de médiation entre les différents participants. Il veille au respect de l'ordre du jour, propose des éléments de synthèse et fait procéder à la validation des propositions.*
+
+*La commune s'engage à assurer la restitution de l'information, en direction des membres du Conseil Participatif mais aussi en direction de l'ensemble de la population.*
+
+*Les comptes rendus des séances de travail sont diffusés aux membres du Conseil participatif, sur le site de la commune et sur tout autre support de communication mis en place par la commune.* 
+
+*La commune fera régulièrement le point sur l'avancement du projet. En particulier, tous les habitants de la commune seront informés de la tenue des forums de restitution auxquels ils seront conviés, par tous moyens (voie de presse, via les différents outils de communication mis en place par la commune, via une info SMS oi par mail pour ceux qui disposent des outils correspondants, etc... ).*
+
+***3.	Une éthique de l'engagement**
+
+*Les membres du Conseil Participatif s'engagent à participer rrégulièrement  aux  ateliers  proposés  tout  au long de la démarche. En cas d'absence, ils se tiennent informés par les comptes rendus ou contacts directs avec les techniciens en charge du suivi de la démarche.*
+
+*Les membres du Conseil Participatif s'engagent  à  participer  activement ;  des  représentants  du  conseil seront sollicités régulièrement pour diverses missions : rapporteur auprès des habitants à l'occasion des forums, témoignages pour la presse...*
+
+*Les membres du Conseil Participatif s'engagent à accepter et respecter l'esprit qui préside à l’instu-itution de la présente démarche, laquelle fera l’objet d’un développement par la commune : institution d’une maison de la citoyenneté, d’une journée de la citoyenneté, et de toute autre idée faisable et contributive  au développement de la participation des citoyens.*
+
+*Les Conseils participatifs ont pour ambition de donner au débat public une nouvelle dimension : celle de l'écoute, de la délibération argumentée, de la participation active, de l'implication responsable.
+Ils sont tous solidairement respectueux et garants de cet état d'esprit.*
+
+*Ces conseils participatifs peuvent être accompagnés par des animateurs soigneusement choisis (ils peuvent participer à ce choix), indépendants de la puissance publique. Ils ont pour mission d’encourager l’examen de tous les paramètres (juridiques, budgétaires, et de croiser toutes les opinions (du rêve à l’indignation en passant par la régulation).*
+
+**Les sujets abordés (en général environ deux par an) peuvent être à titre d’exemple :** 
+-	la rénovation de la salle des fêtes, 
+-	la construction d’une maison de la citoyenneté où peuvent se réunir les conseils participatifs, 
+-	la construction d’une maison d’accueil pour la petite enfance, 
+-	un projet de restauration, 
+-	un espace de jeux, 
+-	un projet de parc public, 
+-	la circulation et la sécurité routière, 
+-	la résilience alimentaire, 
+-	la résilience sanitaire,
+-	le développement d’un plan énergie communale
+-	le développement d’un plan climat communal (notamment en raison des sécheresses répétitives),
+-	etc …
+
+**L’idéal est de préparer une décision qui s’offre comme un fruit mûr aux élus…**
+
+**Conditions de réussite :**
+-	une campagne d’information préalable tout azimuth vis-à-vis des habitants (notamment par voie de presse, par SMS, par mails, plusieurs forums d’information et de débat à la mairie ou à la maison de la citoyenneté,
+-	des effectifs à peu près égaux entre les 3 collèges,
+-	de nombreux temps de formation et de sensibilisation surtout du collège habitants, notamment sur les faits et chiffres,
+-	le choix d’un animateur ayant une bonne compétence dans le domaine abordé, mais qui doit rester le plus possible neutre,
+-	une précision du périmètre démocratique par l’équipe municipale, laquelle doit indiquer le plus clairement possible ce qui est négociable de ce qui ne l’est pas (contraintes juridiques, engagement politiques des élus...),
+-	organisation d’un retour d’information régulier et transparent de ces conseils participatifs vers la population (cheminement du projet, partage du sens et des enjeux, clarté des objectifs, processus de maturation, liste des idées reçues et des approches égoïstes, confrontation et fertilisation des points de vue sous forme notamment de forums-débats) de façon à ce que les habitants est tout le loisir d’interroger, d’interpeller, de critiquer le travail réalisé par les membres du conseil participatif…
+
+**Au total :** 
+-	parler vrai, vouloir agir juste,
+-	transcender les regards, élever le débat, solliciter le meilleur de chacun, 
+-	une vrai chance de grandissement personnel pour l’élu (nouveau rapport au pouvoir de l’élu, désormais garant de l’intérêt général, et dépositaire de l’accession de tous à la notion de bien commun),
+-	une véritable opportunité pour les habitants de transformation personnelle avec un enjeu de responsabilisation, d’épanouissement et de rayonnement personnel,
+-	un projet pourquoi, pour quoi et pour qui ?
+-	le développement d’une véritable éthique de la discussion : l’invention de la démocratie de demain avec le développement d’une nouvelle légitimité du processus décisionnel, un refus de l’opacité du entre-soi, un nouvel horizon de confiance… 
+-	le développement d’un autre rapport au territoire avec, localement, la construction petit à petit d’un nouveau pacte civique avec progressivement l’élaboration d’une société plus sobre, plus créative, plus juste et plus fraternelle…
