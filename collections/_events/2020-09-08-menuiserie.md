@@ -61,7 +61,7 @@ Pour diminuer ces insuffisances de la démocratie indirecte représentative on a
 Par rapport à la démocratie représentative et à la démocratie directe, **la démocratie participative** se présenterait comme un système mixte dans lequel le peuple délègue son pouvoir à des représentants qui proposent et votent des lois, mais le peuple conserve cependant le pouvoir de se saisir lui-même de certaines questions à un niveau national comme à un niveau local.
 
 **Les caractéristiques d'une démocratie participative sont** :
-•	Par exemple, au niveau national, un remplacement des élections par un tirage au sort de citoyens pour constituer des assemblées participatives (voir l’exemple en France de la désignation de 150 cotoyens pour participer à la convention citoyenne sur le climat),
+•	Par exemple, au niveau national, un remplacement des élections par un tirage au sort de citoyens pour constituer des assemblées participatives (voir l’exemple en France de la désignation de 150 citoyens pour participer à la convention citoyenne sur le climat),
 •	Au niveau local, la réunion de tous les citoyens intéressés par un sujet donné pour éclairer les représentants et co-construire une décision locale (voir notamment les exemples des communes de Loos en Gohelle, Kingersheim et Saillans, à l’initiative en particulier de leurs maires respectifs)...
 •	Une généralisation de cette concertation dynamique, sous forme de débats libres, relative à des décision aussi bien à échelle nationale que locale,
 •	La mise en place de tout système organisé qui garantit que toutes les idées constructives et nouvelles des citoyens seront examinées de manière constructive et efficace.
