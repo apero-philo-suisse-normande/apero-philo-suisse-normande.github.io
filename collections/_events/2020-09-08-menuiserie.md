@@ -169,7 +169,7 @@ David Prothais, fondateur du cabinet Eclectic Experience, garant de la Commissio
 **Par la mise en place de conseils participatifs :**
 A l’initiative du maire, du conseil municipal ou des habitants, un conseil participatif est créé à chaque fois qu’un projet est mis en agenda. 
 
-Il comprend, autour du maire, des élus et des collaborateurs tous ceux qui ont quelque chose à dire : s’ils sont trop nombreux, ils sont tirés au sort parmi les habitants qui se sont portés volontaires, les membres des associations, les experts, les élus et les collaborateurs, en tout pas plus de 60 à 80 personnes surtout dans une commune de moins de 500 habitants. 
+Il comprend, autour du maire, des élus et des collaborateurs, tous ceux qui ont quelque chose à dire : s’ils sont trop nombreux, ils sont tirés au sort parmi les habitants qui se sont portés volontaires, les membres des associations, les experts, les élus et les collaborateurs, en tout pas plus de 60 à 80 personnes surtout dans une commune de moins de 500 habitants. 
 
 **Il y a trois collèges :** 
 1-	les habitants,
@@ -184,7 +184,7 @@ Il comprend, autour du maire, des élus et des collaborateurs tous ceux qui ont 
 
 *La démarche participative s'inscrit dans une volonté de débat, de concertation et de coproduction avec les habitants ainsi qu’avec toutes les ressources humaines de sens, d’intelligence et d’expertise technique et d’usage. Elle propose des pistes de réflexions argumentées qui serviront d'aide à la décision.*
 
-*Le Conseil participatif est à la phase décisive de débat, de concertation et de co-construction ce que le Conseil municipal est à la phase décisionnaire. En effet, le Conseil Municipal, en vertu de la légitimité que lui confère le suffrage universel, est seul détenteur du pouvoir de décision.*
+*Le Conseil participatif est à la phase décisive de débat, de concertation et de co-construction ce que le Conseil municipal est à la phase décisionnaire. En effet, le Conseil municipal, en vertu de la légitimité que lui confère le suffrage universel, est seul détenteur du pouvoir de décision.*
 
 *2.	Engagement de la commune et de ses représentants*
 
