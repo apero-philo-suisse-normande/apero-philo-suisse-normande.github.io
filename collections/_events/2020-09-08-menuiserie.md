@@ -28,7 +28,7 @@ Jean-Jacques Rousseau (1712-1778) estime pour sa part que la démocratie ne peut
 
 Aucun gouvernement n’est jamais définitivement installé. A échéances régulières de nouvelles élections ont lieu. L’opposition est considérée comme une force légitime et toutes les tendances ont le droit de s’exprimer. L’espoir d’accéder au gouvernement est ouvert à tous.
 
-**La plupart des démocraties actuelles ont adopté le système représentatif avec des contre-pouvoirs** : cour suprême ou constitutionnelle, bicamérisme, indépendance de la justice, possibilité pour le pouvoir exécutif d’opposer son veto aux décisions du pouvoir législatif, etc, sans aller jusqu’au mandat impératif, qui voudrait que les élus appliquent sans pouvoir en juger les décisions prises par le peuple. Cela serait en effet très dangereux, car cela pourrait conduire à des prises de décision inapropriées. 
+**La plupart des démocraties actuelles ont adopté le système représentatif avec des contre-pouvoirs** : cour suprême ou constitutionnelle, bicamérisme, indépendance de la justice, possibilité pour le pouvoir exécutif d’opposer son veto aux décisions du pouvoir législatif, etc, sans aller jusqu’au mandat impératif, qui voudrait que les élus appliquent sans pouvoir en juger les décisions prises par le peuple. Cela serait en effet très dangereux, car cela pourrait conduire à des prises de décision inappropriées. 
 
 **Le système représentatif présente toutefois de nombreuses insuffisances** :
 •	La composition socio-professionnelle des élus est souvent très éloignée de celle des électeurs avec des intérêts qui ne coïncident pas forcément,
