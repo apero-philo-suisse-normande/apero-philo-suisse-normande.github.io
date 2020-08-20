@@ -184,7 +184,7 @@ Il comprend, autour du maire, des élus et des collaborateurs tous ceux qui ont 
 
 *La démarche participative s'inscrit dans une volonté de débat, de concertation et de coproduction avec les habitants ainsi qu’avec toutes les ressources humaines de sens, d’intelligence et d’expertise technique et d’usage. Elle propose des pistes de réflexions argumentées qui serviront d'aide à la décision.*
 
-*Le Consiel participatif est à la phase décisive de débat, de concertation et de co-construction ce que le Conseil municipal est à la phase décisionnaire. En effet, le Conseil Municipal, en vertu de la légitimité que lui confère le suffrage universel, est seul détenteur du pouvoir de décision.*
+*Le Conseil participatif est à la phase décisive de débat, de concertation et de co-construction ce que le Conseil municipal est à la phase décisionnaire. En effet, le Conseil Municipal, en vertu de la légitimité que lui confère le suffrage universel, est seul détenteur du pouvoir de décision.*
 
 *2.	Engagement de la commune et de ses représentants*
 
