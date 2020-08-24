@@ -12,6 +12,10 @@ place: La Menuiserie
 
 ---
 
+* Do not remove this line (it will not be displayed)
+{:toc}
+
+
 ### 1. Présentation des différentes formes de démocratie
 
 *Etymologie : du grec dêmos, peuple, et kratos, pouvoir, autorité*
@@ -161,7 +165,7 @@ Invités : Loïc Blondiaux, professeur de science politique à la Sorbonne Paris
 Antoine Brachet, directeur exécutif de Bluenove et co-président de Démocratie Ouverte ;
 David Prothais, fondateur du cabinet Eclectic Experience, garant de la Commission nationale du débat public ; Leonore de Roquefeuil, présidente de Voxe, un media Civic Tech. 
  
-{% include youtube.html id="x7olrkg" %}
+{% include youtube.html id="r1mSL4rbn4A" %}
 
 
 ### 11. La démocratie participative pratiquée depuis vingt ans par le maire de Kingersheim
