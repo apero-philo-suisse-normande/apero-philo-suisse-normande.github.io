@@ -253,3 +253,71 @@ Ils sont tous solidairement respectueux et garants de cet état d'esprit.*
 -	un projet pourquoi, pour quoi et pour qui ?
 -	le développement d’une véritable éthique de la discussion : l’invention de la démocratie de demain avec le développement d’une nouvelle légitimité du processus décisionnel, un refus de l’opacité du entre-soi, un nouvel horizon de confiance… 
 -	le développement d’un autre rapport au territoire avec, localement, la construction petit à petit d’un nouveau pacte civique avec progressivement l’élaboration d’une société plus sobre, plus créative, plus juste et plus fraternelle…
+
+
+### 12. Compte-rendu de la séance du 8 septembre 2020 de la séance l’Apéro Philo à la Menuiserie de Clécy
+ 
+**Emmanuel Becker accueille les 15 participants (dont deux élus), rappelle la vocation du collectif Ataraxia (sujets de réflexion sur le thème de la transition) et lance la séance en rappelant le sujet du jour : « Formes de démocratie et cause climatique » en indiquant qu’une source documentaire est disponible sur le site dédié.**
+
+La séance débute par une courte vidéo présentant une interview de Joe Spiegel, maire depuis 30 ans de la commune de Kingersheim près de Mulhouse. Il y présente les expériences de démocratie participatives qui, au fil des ans, ont été mis en place et les espaces que les habitants ont investis (création de la maison des citoyens où se déroulent des conseils de citoyens thématiques...)
+
+**Alain Aznar propose une synthèse des éléments mis en ligne qui sont à disposition des participants qui ont pour objet de préparer le public en amont des temps d’échange.**
+
+La démocratie participative est un concept apparu dans les années 60-70 à la faveur des différents mouvements sociaux. 
+
+La démocratie participative, c’est l’ensemble des démarches qui visent à associer les « citoyens ordinaires » aux processus de décisions politiques en vue de renforcer leur légitimité, selon Loïc Blondiaux, professeur à Sciences Po et auteur de l’ouvrage « Le nouvel esprit de la démocratie, Actualité de la démocratie participative, Seuil, 2008 »
+
+Il sest notamment souligné que la démocratie participative doit venir compléter la démocratie représentative notamment au niveau local...
+
+L’idée est de venir **compléter la démocratie représentative dans laquelle de moins en moins de citoyens se reconnaissent (cf en particulier le mouvement des gilets jaunes), pour que les décisions prises soient en adéquation avec ce que pense la plupart des habitants. Il s’agit en quelque sorte de légitimer entre deux élections les décisions prises par les élus.** Mais il ne s’agit pas seulement de consulter les habitants avec des procédures souvent bien trop rapides, il s’agit ,bien plutôt, de faire en sorte que les habitants, du moins ceux que cela intéresse, soient pleinement informés et débattent au cours d’une longue période et lors de multiples réunions des enjeux sociaux, politiques, économiques des décisions à prendre. Il s’agit de les co-construire tous ensemble. 
+
+Pour cela, iI convient que nos élus notamment utilisent leur pouvoir pour forger des outils d’aide à la décision publique et organise la confrontation des diverses opinions et des différents groupes et individus, le cas échéant à leur propre initiative, dans le cadre d’une démarche basée sur l’écoute des autres.
+
+C’est aux USA que la notion de « participatory democracy » émerge pour la première fois avec notamment l’ouvrage de Carole Pateman en 1970 (Participation and democratic theory, Cambridge University Press, 1970). Ce premier courant de pensée s’inspire notamment du philosophe Jean-Jacques Rousseau...
+
+Dans les années 80 émerge un autre courant qui insiste sur l’importance, en démocratie, de la discussion, seule à même de légitimer la décision politique et de la rendre efficace. Il s’inspire notamment des travaux du philosophe Jürgen Habermas, pour qui la légitimité d’une décision en  démocratie, est fondée sur la participation préalable de tous les citoyens concernés à un débat et à une confrontation publique susceptibles de faire émerger un consensus. L’enjeu est moins la mobilisation des citoyens que la légitimation et la qualité de la décision publique...
+
+La démocratie participative s’exprime dans le monde  à travers **de multiples instruments (il en reste pleins à inventer !), que ce soit les budgets participatifs, les conseils participatifs (notamment à Kingersheim), les jurys citoyens, le débat public, les conférences de consensus, les conseils de quartiers, la mise en place de bureaux de citoyens, etc...**
+
+Il est très important, pour le succès de la démocratie participative de désacraliser l’expertise. Il faut reconnaître la capacité de tout citoyen à pouvoir délibérer grâce à une information adéquate et sur un pied d’égalité, sur des questions relevant du bien commun. La pratique a démontré que des citoyens ordinaires pouvaient très bien s’approprier des sujets complexes et produire un avis éclairé.  Ainsi en est-il de l’avis produit par 160 citoyens tirés au sort en Colombie Britannique (une des provinces du Canada) pour faire des propositions concernant la réforme du mode de scrutin. Il en est de même en France avec les 150 citoyens tirés au sort concernant notamment la transition climatique.
+
+La démocratie participative n’a de sens que si elle parvient à dépasser les exclusions sociales. Il faut ainsi recréer de la confiance, notamment à  l’égard des politiques et en particulier des élus au niveau local...
+
+A signaler que **François Mitterrand a rétabli ce que Napoléon avait supprimé, à savoir la responsabilité des maires en matière de sécurité alimentaire, sanitaire, des biens et des personnes...**
+
+En particulier, notre système actuel de distribution alimentaire avec des stocks prévus pour moins d’une semaine, ne permet pas d’assurer une résilience alimentaire efficace en cas d’imprévu qui viendrait empêcher par exemple la circulation des camions livreurs comme un aléa météorologique majeur ou une nouvelle pandémie plus grave encore que celle que nous traversons actuellement avec la Covid 19.
+
+Il est urgent que nous en débattions au niveau de nos communes notamment pour imaginer tous ensemble les réponses à y apporter (notamment en termes de formes d’agriculture locale)... 
+
+Gabriel Poisson (participant et professeur de philosophe) souligne que la démocratie participative doit arriver à « mouiller les autres ». Elle ne doit pas demeurer dans des réunions festives et doit échapper à la surreprésentation des cadres, trop souvent rencontrée en politique...
+
+**Cédric Blot (participant et président de l’association  « Les croqueurs de nature ») met en garde l’assistance** et plus généralement tous les citoyens contre le danger d’une manipulation à l’occasion du déploiement de la démocratie participative. Il souligne plus particulièrement la difficulté pour nous tous d’abandonner nos réflexes et de repenser par nous-mêmes nos modes de vie pour devenir plus résilient... Il insiste sur la notion de « faire » maintenant et tout de suite... 
+Il intervient également pour défendre l’idée de faire émerger et même de développper sa propre spiritualité dans le cadre de la démocratie. Il s’agit de développer les valeurs, le sens et la direction de ce qui nous habite... Ça commence par soi !
+
+Un autre participant indique que ce n’est pas toujours possible de développer ces principes et souligne qu’on n’a pas le droit d’imposer ses vues personnelles. Par contre, il est d’accord avec l’idée que c’est en travaillant avec les enfants que l’on peut avoir d’une part un impact sur les parents, d’autre part que l’on peut préparer l’avenir. Mais nous reste-t-il le temps de le faire compte tenu de l’urgence climatique ?  
+
+Un autre participant encore indique qu’il est inutile d’attendre un signal de changement qui ne  viendrait seulement que « d’en haut ». Beaucoup expriment leur accord avec cette idée,  même si une telle démarche peut être notamment impulsée par le haut...
+
+Un autre encore regrette que nos vies nous échappent trop souvent et constate que nous refusons de continuer à être gouvernés par nos habitudes que lorsque nous le voulons vraiment...
+
+Un autre participant critique les écologistes qui parfois terrorisent pour prendre le pouvoir...
+
+**L’élu de la communauté de commune du Cingal en charge de la transition climatique trouve que la démarche instituée par l’Apéro Philo est positive, mais que le bien commun n’est pas si partagé que cela.***** Il appelle les citoyens à se prendre en main et il pense qu’il y a  quelque chose à inventer en matière de démocratie participative pour entraîner les citoyens. Il pense notamment qu’il faut mettre en avant la bienveillance de chacun et « y aller doucement ». Il invite notamment à une réflexion des citoyens sur l’éolien et plus généralement sur les énergies renouvelables comme dans les économies d’énergie, dans le secteur public comme dans le privé...
+
+**Une autre élue, maire d’une commune voisine, déclare qu’elle se questionne continuellement pour essayer de mobiliser ses administrés et s’interroge sur ce qui leur permettrait de s’approprier des moyens qu’offre la démocratie participative.**
+
+Tous les participants s’interrogent sur la manière de mobiliser et faire venir les gens sur des sujets d’intérêt commun et ainsi dépasser « l’entre-soi »... Chacun convient que ce n’est pas facile et que tout est à inventer en la matière...
+
+Un participant souligne qu’il ne faut pas avoir peur « d’y aller », bien sûr en respectant les gens, en partageant les savoirs, en n’ayant pas peur de faire confiance, en réunissant et en discutant avec les gens pour réaliser plus de choses dans le cadre d’une dynamique du bien commun...
+
+**D’autres soulignent encore que chaque occasion de réunion vaut la peine d’être saisie, comme par exemple la traditionnelle séance dédiée aux vœux du Maire, etc...**
+
+Les élus présents soulignent que la réglementation a parfois du bon en ce qu’elle oblige à faire attention quelquefois au bien commun...
+
+Un autre participant pense que c’est ce qu’on a en commun qui nous rassemble. Dans ce contexte il convient d’abord de s’attacher à comprendre l’autre...
+
+**Enfin un autre participant  propose de lier la prochaine session de l’Apéro Philo à un événement qui pourrait attirer plus de monde.* Il s’agit de se rassembler autour de valeurs communes qui peuvent se traduire par des actions collectives. Quelqu’un propose notamment une séance d’apprentissage de tir à l’arc ou tout autre activité qui serait prétexte à l’échange et à la discussion... Et pourquoi pas, puisque nous avons prévu de tenir notre prochaine réunion au Soubock, un concert avec un groupe ?
+
+En fin de réunion, après plus de 2 heures d’échanges nourris entre les participants, Emmanuel Becker demande à l’assistance quel sujet elle aimerait mettre à l’ordre du jour du prochain Apéro Philo du mardi 1er décembre au Soubock. Bruce Dévernois indique que Julien Danlos qui n’a pu venir pour des raisons de formation à la sociocratie (sorte de démocratie participative) dans la Drôme, y sera présent et serait intéressé par une poursuite de la discussion entamée ce 8 septembre à La Menuiserie. 
+
+**Pourquoi pas par exemple le sujet suivant « Causes démocratique et climatique : même sujet ? »**
