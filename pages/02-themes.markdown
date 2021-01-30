@@ -24,6 +24,7 @@ permalink: /themes/
   - Autres expériences municipales
     - [Une cantine bio à Mouans-Sartoux](https://www.youtube.com/watch?v=Yfy4xgSCI30)
     - [Une autre cantine bio à Langouët](https://www.youtube.com/watch?v=YqC2w3Q1jKM)
+    - [Langouët ; ville écologique durable](https://www.youtube.com/watch?v=ztO55WwrAVM)
 
 - Vivre ensemble
   - Les ressorts qui nous animent
