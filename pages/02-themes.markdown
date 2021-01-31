@@ -31,6 +31,10 @@ permalink: /themes/
     - [4 façons de vivre ensemble, André Comte Sponville](https://www.youtube.com/watch?v=1Tdl89vfdV0)
   - Comment construire le lien qui permet de vivre en société
     - [Matthieu Ricard et Jacques Attali sur l'altruisme](https://www.youtube.com/watch?v=cmMcNIVMkZU)
+
+- Agriculture nouveautés
+  - L'agricuture de conservation
+    - [Découverte : l'agriculture de conversation - Silence, ça pousse !](https://www.youtube.com/watch?v=UbOtU9FUbSk)
     
 - Croissance et pollution 
   - La pandémie du coronavirus va faire baisser temporairement la croissance mondiale. Du coup, les émissions de gaz à effet de serre vont diminuer. L'effet est spectaculaire sur la pollution chinoise. Mais au fur et à mesure que la pandémie sera maîtrisée, les émissions vont repartir à la hausse et finalement l'impact sur le changement climatique comme celui sur la pollution ne seront que de peu d'effet à moyen terme...
