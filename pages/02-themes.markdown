@@ -36,7 +36,7 @@ permalink: /themes/
     - [Découverte : l'agriculture de conversation - Silence, ça pousse !](https://www.youtube.com/watch?v=UbOtU9FUbSk)
  
 - Maisons autonomes
-   - Maison Autoconstruite et 100% AUTONOME
+  - Maison Autoconstruite et 100% AUTONOME
     - [Ils l'ont fait !](https://www.youtube.com/watch?v=imLUIQnpzTU)
 
 - Croissance et pollution 
