@@ -36,8 +36,8 @@ permalink: /themes/
     - [Découverte : l'agriculture de conversation - Silence, ça pousse !](https://www.youtube.com/watch?v=UbOtU9FUbSk)
  
 - Maisons autonomes
-   - Maison Autoconstruite et 100% AUTONOME ? Ils l'ont fait ! 
-    - [Ils l'ont faits !](https://www.youtube.com/watch?v=imLUIQnpzTU)
+   - Maison Autoconstruite et 100% AUTONOME
+    - [Ils l'ont fait !](https://www.youtube.com/watch?v=imLUIQnpzTU)
 
 - Croissance et pollution 
   - La pandémie du coronavirus va faire baisser temporairement la croissance mondiale. Du coup, les émissions de gaz à effet de serre vont diminuer. L'effet est spectaculaire sur la pollution chinoise. Mais au fur et à mesure que la pandémie sera maîtrisée, les émissions vont repartir à la hausse et finalement l'impact sur le changement climatique comme celui sur la pollution ne seront que de peu d'effet à moyen terme...
