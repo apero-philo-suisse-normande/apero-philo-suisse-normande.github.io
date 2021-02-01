@@ -34,12 +34,16 @@ permalink: /themes/
 - Agriculture nouveautés
   - L'agricuture de conservation
     - [Découverte : l'agriculture de conversation - Silence, ça pousse !](https://www.youtube.com/watch?v=UbOtU9FUbSk)
- 
+  - Le semis direct sous couvert végétal : Lucien Seguy est décédé à 75 ans le 27 avril 2020. C'était un pionnier, agronome au CIRAD, mondialement connu, loué et regretté...
+    - [Lucien Seguy donne sa version de l'agroécologie](https://www.youtube.com/watch?v=UbOtU9FUbSk)
+    
 - Maisons autonomes
   - Maison Autoconstruite et 100% AUTONOME
     - [Ils l'ont fait !](https://www.youtube.com/watch?v=imLUIQnpzTU)
 
 - Croissance et pollution 
-  - La pandémie du coronavirus va faire baisser temporairement la croissance mondiale. Du coup, les émissions de gaz à effet de serre vont diminuer. L'effet est spectaculaire sur la pollution chinoise. Mais au fur et à mesure que la pandémie sera maîtrisée, les émissions vont repartir à la hausse et finalement l'impact sur le changement climatique comme celui sur la pollution ne seront que de peu d'effet à moyen terme...
+  - La pandémie du coronavirus va faire baisser temporairement la croissance mondiale. Du coup, les émissions de gaz à effet de serre vont diminuer. L'effet est spectaculaire
+    sur la pollution chinoise. Mais au fur et à mesure que la pandémie sera maîtrisée, les émissions vont repartir à la hausse et finalement l'impact sur le changement 
+    climatique comme celui sur la pollution ne seront que de peu d'effet à moyen terme...
     - [Rapport de l'OCDE sur la croissance mondiale du 2 mars 2020](./ocde-croissance.html)
     - [2020 : Une crise sans précédent, une reprise incertaine (FMI)](/documents/perspectives FMI juin 2020.pdf)
