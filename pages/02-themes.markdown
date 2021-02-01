@@ -14,7 +14,9 @@ permalink: /themes/
     - [Jean-Marc Jancovici: CO2 ou PIB, il faut choisir](https://www.youtube.com/watch?v=Vjkq8V5rVy0)
     - [L’énergie pour les nuls](https://www.youtube.com/watch?v=IaQ-U-dP_7M)
   - Courants transocéaniques et climat
-    - [Gulf Stream, le talon d’Achille du climat  (documentaire de FR3-Thalassa)](https://www.youtube.com/watch?v=CIJJ4X0cv94)  
+    - [Gulf Stream, le talon d’Achille du climat (documentaire de FR3-Thalassa)](https://www.youtube.com/watch?v=CIJJ4X0cv94)
+  - Notre héritage
+    - ["Legacy", le nouveau cri d’alerte de Yann Arthus-Bertrand pour notre planète](https://www.youtube.com/watch?v=eJJaVxGpaQk) 
     
 - Expériences municipales
   - Démocratie participative
