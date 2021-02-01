@@ -35,7 +35,7 @@ permalink: /themes/
   - L'agricuture de conservation
     - [Découverte : l'agriculture de conversation - Silence, ça pousse !](https://www.youtube.com/watch?v=UbOtU9FUbSk)
   - Le semis direct sous couvert végétal : Lucien Seguy est décédé à 75 ans le 27 avril 2020. C'était un pionnier, agronome au CIRAD, mondialement connu, loué et regretté...
-    - [Lucien Seguy donne sa version de l'agroécologie](https://www.youtube.com/watch?v=UbOtU9FUbSk)
+    - [Lucien Seguy donne sa version de l'agroécologie](https://www.youtube.com/watch?v=klzzkv11NUk)
     
 - Maisons autonomes
   - Maison Autoconstruite et 100% AUTONOME
