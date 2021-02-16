@@ -14,6 +14,7 @@ permalink: /themes/
     - [Jean-Marc Jancovici : CO2 ou PIB, il faut choisir](https://www.youtube.com/watch?v=Vjkq8V5rVy0)
     - [L’énergie pour les nuls](https://www.youtube.com/watch?v=IaQ-U-dP_7M)
     - [Jean-Marc Jancovici : Transition écologique : enjeux et opportunités ](https://www.youtube.com/watch?v=Shz30sEEyT8)
+    
      Jean-Marc Jancovici répond aux questions de Nicolas Jacob, responsable de recherche à ODDO BHF Asset Management, conseil des investisseurs financiers de la façon suivante :
      
      Il n’y a pas de définition normative de la transition écologique. L’ONU a une définition qualitative avec 17 objectifs différents qui se contredisent.
