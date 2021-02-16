@@ -65,7 +65,7 @@ permalink: /themes/
      toutes choses égales d’ailleurs, c’est comme si 200 copropriétaires se réunissait en AG sans ordre du jour, sans projet de résolution, sans syndic, avec une voix par 
      appartement quelle que soit la superficie de l’appartement, mais ou par contre les travaux sont à payer au pro-rata de la surface de chaque appartement, le tout pour se 
      mettre d’accord à l’unanimité en un jour sur un programme de travaux conduisant à tout réviser de fond en comble dans l’immeuble. La probabilité qu’ils y arrivent est 
-     proche de zéro ***(ndlr : voir la pièce de théâtre donnée sur ce sujet à l'espace Sylvia Montfort à Paris 15, il y a quelques années).***
+     proche de zéro *(ndlr : voir la pièce de théâtre donnée sur ce sujet à l'espace Sylvia Montfort à Paris 15, il y a quelques années).*
 
      La COP c’est la même chose, chacun arrive avec ce qu’il est prêt à faire pour diverses raisons. C’est donc un endroit d’où ne sortira aucun système contraignant 
      s’appliquant à l’ensemble de l’humanité pour sauver son climat. Il y a néanmoins des prises de position de grands Etats, de grandes entreprises, de collectivités locales, 
