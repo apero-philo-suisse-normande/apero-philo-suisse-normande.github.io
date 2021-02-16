@@ -89,7 +89,7 @@ permalink: /themes/
 
      Du coup, il y a un véritable sujet de gestion forestière, notamment en France (voir nouvelle loi sur le sujet) où il conviendrait d’éliminer les seuls arbres  qui vont 
      mourir (c’est notamment le cas des épicéas et des hêtres en plaine) et les remplacer par d’autres espèces. Donc on a un besoin massif d’investissements dans ce domaine... 
-     En oarticulier il serait préférables que l’Etat garantisse un taux de rendement dans la régénération forestière plutôt que dans la plantation d’éolienne et de 
+     En particulier il serait préférables que l’Etat garantisse un taux de rendement dans la régénération forestière plutôt que dans la plantation d’éolienne et de 
      photovoltaïque qui, on l’a vu plus haut, ne sont pas à la hauteur des enjeux climatiques...
 
      Quand on regarde la puissance de stockage installée sur terre (électricité), elle est égale à 2 % de la puissance de production (7000 GigaW contre 150 GigaW). Au sein de 
