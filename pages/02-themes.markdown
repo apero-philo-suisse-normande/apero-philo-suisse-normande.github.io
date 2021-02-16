@@ -29,7 +29,7 @@ permalink: /themes/
      Une comparaison peut être faite avec la température du corps humain,  1 degré c’est loin d’être grave, 3 degrés cela devient beaucoup plus grave, 5 degrés on est 
      probablement mort...
 
-     Politiquement on a fixé une limite à 2 degrés. Mais à 2 degrés, l’ensemble des coraux sur terre sont morts (aujourd’hui on a déjà dépassé 1,5 degrés). Pour tenir sur la  
+     Politiquement on a fixé une limite à 2 degrés. Mais à 2 degrés, l’ensemble des coraux sur terre sont morts (aujourd’hui on a déjà dépassé 1,5 degrés). Pour tenir sur la 
      crête des 2 degrés, il faut diminuer les émissions mondiales de GES de 5 % chaque année d’ici non seulement notre mort mais également jusqu’à la mort de nos enfants... En 
      2020, du fait de la covid19 et de la crise sanitaire les émisions de GES ont été diminuées de 5 %. Donc l’ordre de grandeur nécessaire pour ne pas dépasser 2 degrés de 
      hausse est d’environ les effets d’une covid19 chaque année. Si on ne le fait pas notre environnement s’en chargera probablement pour nous, mais dans un effroyable chaos.
