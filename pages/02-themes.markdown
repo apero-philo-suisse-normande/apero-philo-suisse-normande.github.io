@@ -26,7 +26,7 @@ permalink: /themes/
 
      Deux degrés d’élévation des températures (on a déjà dépassé 1,5 degrés) n’ont pas un effet proportionnel sur la planète : 2 degrés c’est 10 000 fois plus de dégâts que          1 degré et 3 degrés c’est probablement un million de fois plus de dégâts que pour une élévation de 1 degré et ainsi de suite... 
 
-     Une comparaison peut être faite avec la température du corps humain,  1 degré c’est loin d’être grave, 3 degrés cela devient beaucoup plus que grave, 5 degrés on est 
+     Une comparaison peut être faite avec la température du corps humain,  1 degré c’est loin d’être grave, 3 degrés cela devient beaucoup plus grave, 5 degrés on est 
      probablement mort...
 
      Politiquement on a fixé une limite à 2 degrés. Mais à 2 degrés, l’ensemble des coraux sur terre sont morts (aujourd’hui on a déjà dépassé 1,5 degrés). Pour tenir sur la  
