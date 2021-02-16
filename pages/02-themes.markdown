@@ -47,9 +47,9 @@ permalink: /themes/
      Pas une seule seconde, il n’est malheureusement envisageable que les énergies renouvelables se substituent aux énergies fossiles pour alimenter toutes ces machines qui ont 
      permis cette croissance immense...  Donc un retour au monde avec ER est possible, mais avec une division du PIB mondial comprise entre 5 et 50...
 
-     Quand on veut produire des ER avec le solaire ou l’éolien on utilise des ressources (métalliques et autres –des centaines de fois plus par kwh produit-) telles que le coût 
-     en carbone comme en euros est bien plus élevé que les différents coûts du fossile ou du nucléaire. En plus la place qu’occuppe le solaire (des millliers de fois plus par  
-     kwh produit) et l’éolien est inenvisageable...
+     Quand on veut produire des ER avec le solaire ou l’éolien on utilise des ressources (métalliques et autres –des centaines de fois plus importantes que pour les énergies 
+     fossiles par kwh produit-) telles que le coût en carbone comme en euros est bien plus élevé que les différents coûts du fossile ou du nucléaire. En plus la place qu’occupe 
+     le solaire (des milliers de fois plus imporatnte par kwh produit) et l’éolien est inenvisageable...
 
      Restent notamment l’hydro-électricité et le bois. Mais la marche à franchir est telle qu’Il n’est pas possible de faire fonctionner, avec les seules ER, le monde  
      d’aujourd’hui.
@@ -59,45 +59,45 @@ permalink: /themes/
      remplacer une petite partie seulement par des centrales à gaz)...
 
      Je n’attends rien de la prochaine COP 26 à Glasgow. La seule COP ayant apporté quelque chose est la COP 15 à Copenhague en 2009 dont on a dit pis que pendre mais qui a 
-     néanmoins préparé en coulisse une adoption future  d’une hausse limitée à 2 degrés...
+     néanmoins préparé en coulisse une adoption future d’une hausse limitée à 2 degrés...
 
      Une COP (réunion annuelle des 200 pays que compte environ le monde) c’est un processus onusien remontant, prenant ses décisions à l’unanimité qui ne peut de fait aboutir : 
      toutes choses égales d’ailleurs, c’est comme si 200 copropriétaires se réunissait en AG sans ordre du jour, sans projet de résolution, sans syndic, avec une voix par 
-     appartement quelle que soit la superficie de l’appartement, mais ou par contre les travaux sont à payer au pro-rata de la surface de chaque appartement,  le tout pour se 
+     appartement quelle que soit la superficie de l’appartement, mais ou par contre les travaux sont à payer au pro-rata de la surface de chaque appartement, le tout pour se 
      mettre d’accord à l’unanimité en un jour sur un programme de travaux conduisant à tout réviser de fond en comble dans l’immeuble. La probabilité qu’ils y arrivent est 
-     proche de zéro.
+     proche de zéro ***(ndlr : voir la pièce de théâtre donnée sur ce sujet à l'espace Sylvia Montfort à Paris 15, il y a quelsues années).***
 
      La COP c’est la même chose, chacun arrive avec ce qu’il est prêt à faire pour diverses raisons. C’est donc un endroit d’où ne sortira aucun système contraignant 
      s’appliquant à l’ensemble de l’humanité pour sauver son climat. Il y a néanmoins des prises de position de grands Etats, de grandes entreprises, de collectivités locales, 
      voire de particuliers qui ne sont pas inintéressantes...  Mais rien ne se décide vraiment lors d’une COP...
 
      En ce qui concerne l’Europe, le pic de production d’énergies fossiles est passé depuis belle lurette et donc l’Europe a donc tout intérêt à se lancer à fond dans la 
-     décarbonation de l’économie, car si elle ne le fait pas, et quoi qu’il arrive, cela passera par une récession continue. L’Europe s’est lancée dans de nombreuses positions 
-     contradictoires comme par exemple à la fois la baisse des émissions de carbone et d le recul du nucléaire, ce qui n’est pas possible, sans compter bien d’autres 
+     décarbonation de son économie, car si elle ne le fait pas, et quoi qu’il arrive, cela passera par une récession continue. L’Europe s’est lancée dans de nombreuses voies 
+     contradictoires comme par exemple à la fois la baisse des émissions de carbone et le recul du nucléaire, ce qui n’est pas possible, sans compter bien d’autres 
      contradictions soit au niveau de la réglementation des pays composant l’Europe, soit également à celle conçue au niveau européen... 
 
      Pour un investisseur européen dans ce contexte, il convient de franchir les étapes suivantes : d’abord bien comprendre ce qui se passe, les données physiques du problème, 
      les constantes de temps, les ordres de grandeur, les irréversibilités, ensuite bien comprendre le lien entre l’énergie et l’économie et en particulier faire des projections 
-     en fonction de la fiscalité de demain. Ensuite il convient de se doter d’une métrique permettant d’établir pour chaque actiuon unitaire engagée d’une sorte de compta euros 
-     et d’une sorte de compta carbone. En plus ça ne coûte pas cher... 
+     en fonction de la fiscalité de demain. Ensuite il convient de se doter d’une métrique permettant d’établir pour chaque actiuon unitaire engagée une sorte de comptabilité en 
+     euros doublée d’une sorte de comptabilité carbone. En plus ça ne coûte pas cher... 
 
-     Les feux de forêt c’est un puit de carbone qui est annihilé. De plus avec le réchauffement climatique il y a un affaiblissement des puits de carbone du fait du stress 
+     Les feux de forêt c’est un puit de carbone qui est annihilé. De plus avec le réchauffement climatique il y a un affaiblissement de ce puit de carbone du fait du stress 
      hydrique des plantes et arbres qui ont besoin d’eau pour pousser... Cet affaiblissement, notamment dans les zones tempérées fait que les forêts de ces zones n’arrivent plus 
      à capter suffisamment de carbone grâce à la photosynthèse. Il y a donc un risque à terme, en lien avec les feux de forêt, que ce puit de carbone disparaisse et soit 
      remplacé au contraire par une source d’émission de GES (dépérissement des arbres, diminution de la photosynthèse, bois mort, brûlé etc...). Si tel devenait le cas, le 
-     processus commencerait à s’emballer et on ne sait pas où il  peut s’arrêter...
+     processus commencerait à s’emballer et on ne sait pas où il peut s’arrêter...
 
-     Du coup, il y a un véritable sujet de gestion forestière, notamment en France (voir nouvelle loi sur le sujet) oùil conviendrait d’éliminer les seuls arbres  qui vont 
+     Du coup, il y a un véritable sujet de gestion forestière, notamment en France (voir nouvelle loi sur le sujet) où il conviendrait d’éliminer les seuls arbres  qui vont 
      mourir (c’est notamment le cas des épicéas et des hêtres en plaine) et les remplacer par d’autres espèces. Donc on a un besoin massif d’investissements dans ce domaine... 
      En oarticulier il serait préférables que l’Etat garantisse un taux de rendement dans la régénération forestière plutôt que dans la plantation d’éolienne et de 
      photovoltaïque qui, on l’a vu plus haut, ne sont pas à la hauteur des enjeux climatiques...
 
      Quand on regarde la puissance de stockage installée sur terre (électricité), elle est égale à 2 % de la puissance de production (7000 GigaW contre 150 GigaW). Au sein de 
      ces 2%, les batteries représentent 0,5 %. Donc les batteries représentent au total 0,01% de la puissance de production... Donc on aura juste pas assez de métal sur terre 
-     pour construire les batteries qu’ils faudraient pour stocker les quantités nécessaires d’électricité. Par ailleurs le bilan carbone de la construction des batteries ; 
-     aujourd’hui pour juste stocker 1 Kwh sur batterie, est produit entre 50 et 100 g de CO2. Restituer 1 Kwh d’électricité d’origine éolienne ou photovoltaïque, c’est donc 
-     équivalent à produire 100 g par Kwh d’électricité restituée. C’est mieux q’une centrale au gaz qui se situe aux environs de 400 g, ou une centrale au charbon qui se situe à 
-     1000 g, mais moins bien qu’une centrale nucléaire qui se situe à 6 g. Quand on dit que le solaire couplé à la batterie, c’est zéro CO2, ce n’est pas vrai...
+     pour construire les batteries qu’il faudrait pour stocker les quantités nécessaires d’électricité. Par ailleurs le bilan carbone de la construction des batteries ; 
+     aujourd’hui pour juste stocker 1 Kwh sur batterie, on produit entre 50 et 100 g de CO2. Restituer 1 Kwh d’électricité d’origine éolienne ou photovoltaïque, c’est 
+     équivalent à produire 100 g de carbone par Kwh d’électricité restituée. C’est mieux q’une centrale au gaz qui se situe aux environs de 400 g, ou une centrale au charbon qui 
+     se situe à 1000 g, mais moins bien qu’une centrale nucléaire qui se situe à 6 g. Quand on dit que le solaire couplé à la batterie, c’est zéro CO2, ce n’est pas vrai...
 
      La covid19 et la crise sanitaire jouent comme un accélérateur dans cette prise de conscience des limites planétaires, du moins de certaines personnes (on ne pourra pas 
      recommencer à produire comme avant, même si on n’en prend pas vraiment le chemin aujourd’hui, du moins seulement marginalement)...
