@@ -34,7 +34,7 @@ permalink: /themes/
      2020, du fait de la covid19 et de la crise sanitaire les émisions de GES ont été diminuées de 5 %. Donc l’ordre de grandeur nécessaire pour ne pas dépasser 2 degrés de 
      hausse est d’environ les effets d’une covid19 chaque année. Si on ne le fait pas notre environnement s’en chargera probablement pour nous, mais dans un effroyable chaos.
 
-     En d’autres termes, pour sauver la planète, il faut s’nscrire durablement dans une économie de récession.
+     En d’autres termes, pour sauver la planète, il faut s’inscrire durablement dans une économie de récession.
 
      Il est impossible pour une entreprise seule d’atteindre une neutralité carbone. En effet elle est dépendante de tous les circuits économiques traditionnels. Donc la   
      question pour une entreprise devient : en quoi contribue-t-elle à la neutralité carbone mondiale ?
