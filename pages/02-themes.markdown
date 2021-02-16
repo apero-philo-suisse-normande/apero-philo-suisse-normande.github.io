@@ -65,7 +65,7 @@ permalink: /themes/
      toutes choses égales d’ailleurs, c’est comme si 200 copropriétaires se réunissait en AG sans ordre du jour, sans projet de résolution, sans syndic, avec une voix par 
      appartement quelle que soit la superficie de l’appartement, mais ou par contre les travaux sont à payer au pro-rata de la surface de chaque appartement, le tout pour se 
      mettre d’accord à l’unanimité en un jour sur un programme de travaux conduisant à tout réviser de fond en comble dans l’immeuble. La probabilité qu’ils y arrivent est 
-     proche de zéro ***(ndlr : voir la pièce de théâtre donnée sur ce sujet à l'espace Sylvia Montfort à Paris 15, il y a quelsues années).***
+     proche de zéro ***(ndlr : voir la pièce de théâtre donnée sur ce sujet à l'espace Sylvia Montfort à Paris 15, il y a quelques années).***
 
      La COP c’est la même chose, chacun arrive avec ce qu’il est prêt à faire pour diverses raisons. C’est donc un endroit d’où ne sortira aucun système contraignant 
      s’appliquant à l’ensemble de l’humanité pour sauver son climat. Il y a néanmoins des prises de position de grands Etats, de grandes entreprises, de collectivités locales, 
@@ -89,8 +89,8 @@ permalink: /themes/
 
      Du coup, il y a un véritable sujet de gestion forestière, notamment en France (voir nouvelle loi sur le sujet) où il conviendrait d’éliminer les seuls arbres  qui vont 
      mourir (c’est notamment le cas des épicéas et des hêtres en plaine) et les remplacer par d’autres espèces. Donc on a un besoin massif d’investissements dans ce domaine... 
-     En particulier il serait préférables que l’Etat garantisse un taux de rendement dans la régénération forestière plutôt que dans la plantation d’éolienne et de 
-     photovoltaïque qui, on l’a vu plus haut, ne sont pas à la hauteur des enjeux climatiques...
+     En particulier il serait préférables que l’Etat garantisse un taux de rendement dans la régénération forestière plutôt que dans l'implantation d’éoliennes et de 
+     panneaux photovoltaïques qui, on l’a vu plus haut, ne sont pas à la hauteur des enjeux climatiques...
 
      Quand on regarde la puissance de stockage installée sur terre (électricité), elle est égale à 2 % de la puissance de production (7000 GigaW contre 150 GigaW). Au sein de 
      ces 2%, les batteries représentent 0,5 %. Donc les batteries représentent au total 0,01% de la puissance de production... Donc on aura juste pas assez de métal sur terre 
