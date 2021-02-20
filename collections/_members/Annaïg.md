@@ -2,7 +2,7 @@
 layout: page
 title: Annaïg
 
-picture: documents/Annaïg.png
+picture: documents/Anna%C3%AFg.png
 firstname: Annaïg
 lastname: Rivoal
 phone: 06 72 43 24 63
