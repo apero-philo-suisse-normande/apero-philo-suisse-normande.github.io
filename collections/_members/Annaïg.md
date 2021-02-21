@@ -15,7 +15,7 @@ Elle a travaillé 10 ans dans l'industrie : l'agro-alimentaire, la transformatio
 et la métallurgie lourde.
 Elle a intégré l'aventure de l'Amap de la Suisse Normande en 2015 laquelle a évolué
 vers l'association ARBRES et elle propose également un jardin partagé, un système
-d'échange local et un guide des structures écoresponsables du territoire : "le p'tit Suisse Normand";. 
+d'échange local et un guide des structures écoresponsables du territoire : "le p'tit Suisse Normand". 
 Ses expériences professionnelles et associatives lui ont montré la force de la
 connaissance et de l'intelligence collective. 
 Elle travaille depuis 2019 en collectivité territoriale. 
