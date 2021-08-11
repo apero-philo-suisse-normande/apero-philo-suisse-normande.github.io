@@ -5,8 +5,8 @@
 layout: default
 lang: fr
 
-poster: documents/affiches/affiche-2021-07-06.jpg
-poster-link: ./documents/affiches/affiche-2021-07-06.pdf
+poster: documents/affiches/affiche-avenir.jpg
+poster-link: \#
 ---
 
 <div id="values" style="">

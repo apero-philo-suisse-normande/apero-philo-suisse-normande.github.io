@@ -10,7 +10,11 @@ place: Le Quai d'Harcourt
 
 video1: Vjkq8V5rVy0
 video2: j48hBShnfB0
+
+
 ---
+
+
 
 **Apéro philo du 3 décembre 2019 au Quai d'Harcourt**
 
