@@ -121,12 +121,12 @@ permalink: /themes/
 
 - Agriculture
  - Témoignages d'agriculteurs
-    - [Comment j'ai réussi à maîtriser les adventices] (https://www.youtube.com/watch?v=qLEBRBUFXzI&t=11s)
-    - [Comment j'ai réussi ma transition agro-écologique] (https://www.youtube.com/watch?v=HtQCQSglR4Q&t=39s)
-    - [Comment produire économe avec un système pâturant ?] (https://www.youtube.com/watch?v=wKnTPmvYqVU&t=1s)     
-    - [Comment produire économe en sécurisant mon système et en diversifiant mes cultures ?] (https://www.youtube.com/watch?v=6d9iOVbFvhA)
-    - [Comment produire économe en cultivant des prairies multi-espèces ?] (https://www.youtube.com/watch?v=fRQhmvvgHjY&t=1s)
-    - [Comment je suis sorti de l’impasse en cultivant des mélanges d'espèces ?] (https://www.youtube.com/watch?v=glJ-WbPnL6U&t=1s)
+    - [Comment j'ai réussi à maîtriser les adventices](https://www.youtube.com/watch?v=qLEBRBUFXzI&t=11s)
+    - [Comment j'ai réussi ma transition agro-écologique](https://www.youtube.com/watch?v=HtQCQSglR4Q&t=39s)
+    - [Comment produire économe avec un système pâturant](https://www.youtube.com/watch?v=wKnTPmvYqVU&t=1s)     
+    - [Comment produire économe en sécurisant mon système et en diversifiant mes cultures](https://www.youtube.com/watch?v=6d9iOVbFvhA)
+    - [Comment produire économe en cultivant des prairies multi-espèces](https://www.youtube.com/watch?v=fRQhmvvgHjY&t=1s)
+    - [Comment je suis sorti de l’impasse en cultivant des mélanges d'espèces](https://www.youtube.com/watch?v=glJ-WbPnL6U&t=1s)
  - L'agriculture de conservation
     - [Découverte : l'agriculture de conversation - Silence, ça pousse !](https://www.youtube.com/watch?v=UbOtU9FUbSk)
   - Le semis direct sous couvert végétal : Lucien Séguy est décédé à 75 ans le 27 avril 2020. C'était un pionnier, agronome au CIRAD, mondialement connu, loué et regretté...
