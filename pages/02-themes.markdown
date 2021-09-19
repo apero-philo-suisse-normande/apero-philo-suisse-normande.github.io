@@ -131,7 +131,7 @@ permalink: /themes/
     - [Découverte : l'agriculture de conversation - Silence, ça pousse !](https://www.youtube.com/watch?v=UbOtU9FUbSk)
   - Le semis direct sous couvert végétal : Lucien Séguy est décédé à 75 ans le 27 avril 2020. C'était un pionnier, agronome au CIRAD, mondialement connu, loué et regretté...
     - [Lucien Séguy donne sa version de l'agroécologie](https://www.youtube.com/watch?v=klzzkv11NUk)
-  - la permaculture et la ferme du Bec Hellouin
+  - La permaculture et la ferme du Bec Hellouin
     - [Introduction à la permaculture à la ferme du Bec Hellouin](https://www.youtube.com/watch?v=FXaD3NGRQQo)
     - [La ferme du Bec Hellouin](https://www.youtube.com/watch?v=5w3VqluGfGY)
 
