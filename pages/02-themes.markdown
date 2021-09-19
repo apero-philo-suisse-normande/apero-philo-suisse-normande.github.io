@@ -51,8 +51,7 @@ permalink: /themes/
      fossiles par kwh produit-) telles que le coût en carbone comme en euros est bien plus élevé que les différents coûts du fossile ou du nucléaire. En plus la place qu’occupe 
      le solaire (des milliers de fois plus imporatnte par kwh produit) et l’éolien est inenvisageable...
 
-     Restent notamment l’hydro-électricité et le bois. Mais la marche à franchir est telle qu’Il n’est pas possible de faire fonctionner, avec les seules ER, le monde  
-     d’aujourd’hui.
+     Restent notamment l’hydro-électricité et le bois. Mais la marche à franchir est telle qu’Il n’est pas possible de faire fonctionner, avec les seules ER, le monde  d’aujourd’hui.
 
      Le gaz est condamné à terme (c’est une énergie fossile) mais peut être utile à titre transitoire à condition d’être utilisé de façon modérée pour organiser la transition 
      écologique (dans les 30 ans qui viennent, il faut absolument ferrailler toutes les centrales à charbon si on veut limiter la hausse des températures à 2 degrés – on peut en 
