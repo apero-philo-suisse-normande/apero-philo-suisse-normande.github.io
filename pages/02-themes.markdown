@@ -120,7 +120,7 @@ permalink: /themes/
     - [Matthieu Ricard et Jacques Attali sur l'altruisme](https://www.youtube.com/watch?v=cmMcNIVMkZU)
 
 - Agriculture
- - Comment faire ?
+ - Témoignages d'agriculteurs
     - [Comment j'ai réussi à maîtriser les adventices] (https://www.youtube.com/watch?v=qLEBRBUFXzI&t=11s)
     - [Comment j'ai réussi ma transition agro-écologique] (https://www.youtube.com/watch?v=HtQCQSglR4Q&t=39s)
     - [Comment produire économe avec un système pâturant ?] (https://www.youtube.com/watch?v=wKnTPmvYqVU&t=1s)     
