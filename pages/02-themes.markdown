@@ -120,7 +120,7 @@ permalink: /themes/
     - [Matthieu Ricard et Jacques Attali sur l'altruisme](https://www.youtube.com/watch?v=cmMcNIVMkZU)
 
 - Agriculture
-  - Témoignages d'agriculteurs
+  - Témoignages d'agriculteurs (diminution -voire suppression- des produits phytosanitaires avec les conseils des CIVAM - Centres d'initiatives pour valoriser l'agriculture et le milieu rural)
     - [Comment j'ai réussi à maîtriser les adventices](https://www.youtube.com/watch?v=qLEBRBUFXzI&t=11s)
     - [Comment j'ai réussi ma transition agro-écologique](https://www.youtube.com/watch?v=HtQCQSglR4Q&t=39s)
     - [Comment produire économe avec un système pâturant](https://www.youtube.com/watch?v=wKnTPmvYqVU&t=1s)     
@@ -134,6 +134,12 @@ permalink: /themes/
   - La permaculture et la ferme du Bec Hellouin
     - [Introduction à la permaculture à la ferme du Bec Hellouin](https://www.youtube.com/watch?v=FXaD3NGRQQo)
     - [La ferme du Bec Hellouin](https://www.youtube.com/watch?v=5w3VqluGfGY)
+  - la ferme de la bérouette et la halte paysanne (épisode 2 ci-dessous)
+    - [épisode 1](https://www.youtube.com/watch?v=QtuxHsvMyHw)
+    - [épisode 2](https://www.youtube.com/watch?v=lbB9vlSZSng)
+    - [épisode 3](https://www.youtube.com/watch?v=9s0WlDu0ZX0)
+    - [épisode 4](https://www.youtube.com/watch?v=q8ZeoWndkg0)
+    - [une forêt-jardin dans le bocage ornais](https://www.youtube.com/watch?v=VgFoUJCxJ2A)
 
 - Maisons autonomes
   - Maison Autoconstruite et 100% AUTONOME
