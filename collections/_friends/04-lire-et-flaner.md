@@ -14,4 +14,4 @@ C’est ainsi qu’il accueillera bientôt dans sa boutique une session de notre
 
 Sa boutique est ouverte tous les jours de 15h à 19h, sauf le dimanche et le lundi
  
-Contact : "LIRE ET FLÂNER" Le Bourg - SÉGRIE-FONTAINE (61 100) manesse.jean-pierre@gmail.com 02 33 14 45 36 – 06 61 15 16 41
+Contact : "LIRE ET FLÂNER" Le Bourg - SÉGRIE-FONTAINE (61 100) [manesse.jean-pierre@gmail.com](mailto:manesse.jean-pierre@gmail.com) 02 33 14 45 36 – 06 61 15 16 41
