@@ -4,7 +4,7 @@ title: Le KRabo
 
 ---
 
-Un lieu improbable, situé en plein milieu de la campagne ornaise, aux portes de la Suisse Normande, dans le petit village de Rabodanges, le K rabo allie à la fois l’ensemble des valeurs et des activités suivantes : Koopératif, Kollectif, Kafé, Kulture, Koncert, Kommerce, Kantine, Konférences, Kours, Ko-working.
+Un lieu improbable, situé en plein milieu de la campagne ornaise, aux portes de la Suisse Normande, dans le petit village de Rabodanges, le K-Rabo allie à la fois l’ensemble des valeurs et des activités suivantes : Koopératif, Kollectif, Kafé, Kulture, Koncert, Kommerce, Kantine, Konférences, Kours, Ko-working.
 
 Il fait référence à la fois :
 
