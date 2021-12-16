@@ -51,7 +51,7 @@ permalink: /themes/
      fossiles par kwh produit-) telles que le coût en carbone comme en euros est bien plus élevé que les différents coûts du fossile ou du nucléaire. En plus la place qu’occupe 
      le solaire (des milliers de fois plus imporatnte par kwh produit) et l’éolien est inenvisageable...
 
-     Restent notamment l’hydro-électricité et le bois. Mais la marche à franchir est telle qu’Il n’est pas possible de faire fonctionner, avec les seules ER, le monde  d’aujourd’hui.
+     Restent notamment l’hydro-électricité et le bois. Mais la marche à franchir est telle qu’Il n’est pas possible de faire fonctionner, avec les seules ER, le monde                d’aujourd’hui.
 
      Le gaz est condamné à terme (c’est une énergie fossile) mais peut être utile à titre transitoire à condition d’être utilisé de façon modérée pour organiser la transition 
      écologique (dans les 30 ans qui viennent, il faut absolument ferrailler toutes les centrales à charbon si on veut limiter la hausse des températures à 2 degrés – on peut en 
@@ -143,6 +143,7 @@ permalink: /themes/
   - les jardins-forêts
     - [un jardin-forêt dans le bocage ornais](https://www.youtube.com/watch?v=VgFoUJCxJ2A)
     - [Jardin-Forêt : Une Alternative à l'Agriculture](https://www.youtube.com/watch?v=lMKYq3sMSXU)
+      
       L'agriculture est à la base de notre civilisation. Bien au-delà d'autres initiatives comme la permaculture, les jardins-forêts proposent une véritable révolution de nos         sociétés. Fabrice Desjours, auteur du livre « Jardins-Forêts » « Un nouvel art de vivre et de produire », y explique notamment comment créer son jardin-forêt en termes de       philosophie, de conception et de retours pratiques... Il y présente notamment une centaine d’arbres, arbustes, lianes, herbacées, originaux, souvent méconnus,                   complémentaires de fruitiers et légumes classiques... Les jardins-forêts sont par excellence, une excellente aventure à vivre et partager...
 
 - Maisons autonomes
