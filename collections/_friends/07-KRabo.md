@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Le K-Rabo
+title: Le KRabo
 
 ---
 
