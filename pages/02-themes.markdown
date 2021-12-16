@@ -120,7 +120,7 @@ permalink: /themes/
     - [Matthieu Ricard et Jacques Attali sur l'altruisme](https://www.youtube.com/watch?v=cmMcNIVMkZU)
 
 - Agriculture
-  - Témoignages d'agriculteurs (diminution -voire suppression- des produits phytosanitaires avec les conseils des CIVAM - Centres d'initiatives pour valoriser l'agriculture et le milieu rural)
+  - Témoignages d'agriculteurs (diminution -voire suppression- des produits phytosanitaires avec les conseils des CIVAM - Centres d'initiatives pour valoriser l'agriculture et       le milieu rural)
     - [Comment j'ai réussi à maîtriser les adventices](https://www.youtube.com/watch?v=qLEBRBUFXzI&t=11s)
     - [Comment j'ai réussi ma transition agro-écologique](https://www.youtube.com/watch?v=HtQCQSglR4Q&t=39s)
     - [Comment produire économe avec un système pâturant](https://www.youtube.com/watch?v=wKnTPmvYqVU&t=1s)     
@@ -140,10 +140,11 @@ permalink: /themes/
     - [épisode 2](https://www.youtube.com/watch?v=lbB9vlSZSng)
     - [épisode 3](https://www.youtube.com/watch?v=9s0WlDu0ZX0)
     - [épisode 4](https://www.youtube.com/watch?v=q8ZeoWndkg0)
-  -les jardins-forêts
-    - [une forêt-jardin dans le bocage ornais](https://www.youtube.com/watch?v=VgFoUJCxJ2A)
-   
-   
+  - les jardins-forêts
+    - [un jardin-forêt dans le bocage ornais](https://www.youtube.com/watch?v=VgFoUJCxJ2A)
+    - [Jardin-Forêt : Une Alternative à l'Agriculture](https://www.youtube.com/watch?v=lMKYq3sMSXU)
+      L'agriculture est à la base de notre civilisation. Bien au-delà d'autres initiatives comme la permaculture, les jardins-forêts proposent une véritable révolution de nos         sociétés. Fabrice Desjours, auteur du livre « Jardins-Forêts » « Un nouvel art de vivre et de produire », y explique notamment comment créer son jardin-forêt en termes de       philosophie, de conception et de retours pratiques... Il y présente notamment une centaine d’arbres, arbustes, lianes, herbacées, originaux, souvent méconnus,                   complémentaires de fruitiers et légumes classiques... Les jardins-forêts sont par excellence, une excellente aventure à vivre et partager...
+
 - Maisons autonomes
   - Maison Autoconstruite et 100% AUTONOME
     - [Ils l'ont fait !](https://www.youtube.com/watch?v=imLUIQnpzTU)
