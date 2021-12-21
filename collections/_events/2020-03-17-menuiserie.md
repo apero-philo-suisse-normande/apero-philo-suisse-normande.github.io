@@ -44,9 +44,12 @@ Afin de préparer cet apéro-philo, nous vous conseillons de prendre connaissanc
 
 Avec en particulier une incitation à consulter sur ce site la rubrique « qui sommes-nous ? » à savoir un groupe de citoyens souhaitant aider les élus des communes rurales à passer un cap qui s’annonce difficile pour elles en tant que structure et pour leur population en diffusant notamment des exemples de communes ayant mis en œuvre des solutions d’autonomie et de résilience à long terme.
 
-#### 5. Sur le terrain : A la recherche des cahiers de doléances des gilets jaunes suite au grand débat lancé par Macron
+#### 5. Sur le terrain : A la recherche des cahiers de doléances des gilets jaunes en lien avec le grand débat lancé par Macron
 
-{% include youtube.html id="BXHH8K3YeAk"%}
+En prolongement du mouvement des gilets jaunes, des milliers de citoyens ont rempli des cahiers de doléances. Deux ans après, ils demandent au gouvernement de tenir sa promesse.
+La vidéo mise ici initialement ayant été supprimée de You Tube, la rédaction du site a mis en ligne une nouvelle vidéo remplaçant celle qui a été supprimée, mais plus récente et plus complète...
+
+{% include youtube.html id="ayDnx1IDMrA"%}
 
 #### 6. [Des idées de projets à présenter pour aider nos élus ruraux (à débattre dans le cadre de l’Apéro philo)](/themes/municipales-projets.html)
 
