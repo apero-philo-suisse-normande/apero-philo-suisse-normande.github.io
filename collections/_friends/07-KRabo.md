@@ -16,5 +16,5 @@ Il se propose de développer un nouveau modèle économique local, social et sol
 
 Le K-Rabo a été fondé par Carine, force tranquille du crû et organisatrice hors pair, Swannie, femme de caractère, sensible et raffinée, qui nous émeut par ses découvertes artistiques dans tous les domaines et Tristan, grand innovant technologique, passionné de musique, de pizzas et de jeux... 
 
-Contact : Le K-RABO 2 Rue de la Pommeraie, 61210 Putanges-le-Lac bonjour@lekrabo.fr/ 02 33 12 63 78 Lien vers l'agenda de la Fabrique du Bocage :
-https://agenda.fabriquedubocage.fr/events/d773e705-1a2e-40a3-ba48-b73666e67a7c/ 
+Contact : Le K-RABO 2 Rue de la Pommeraie, 61210 Putanges-le-Lac [bonjour@lekrabo.fr](mailto:bonjour@lekrabo.fr) 02 33 12 63 78 Lien vers l'agenda de la Fabrique du Bocage :
+[https://agenda.fabriquedubocage.fr/events/d773e705-1a2e-40a3-ba48-b73666e67a7c/](https://agenda.fabriquedubocage.fr/events/d773e705-1a2e-40a3-ba48-b73666e67a7c/)
