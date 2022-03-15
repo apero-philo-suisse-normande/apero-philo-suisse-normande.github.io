@@ -77,7 +77,7 @@ permalink: /themes/
 
      Pour un investisseur européen dans ce contexte, il convient de franchir les étapes suivantes : d’abord bien comprendre ce qui se passe, les données physiques du problème, 
      les constantes de temps, les ordres de grandeur, les irréversibilités, ensuite bien comprendre le lien entre l’énergie et l’économie et en particulier faire des projections 
-     en fonction de la fiscalité de demain. Ensuite il convient de se doter d’une métrique permettant d’établir pour chaque actiuon unitaire engagée une sorte de comptabilité en 
+     en fonction de la fiscalité de demain. Ensuite il convient de se doter d’une métrique permettant d’établir pour chaque action unitaire engagée une sorte de comptabilité en 
      euros doublée d’une sorte de comptabilité carbone. En plus ça ne coûte pas cher... 
 
      Les feux de forêt c’est un puit de carbone qui est annihilé. De plus avec le réchauffement climatique il y a un affaiblissement de ce puit de carbone du fait du stress 
