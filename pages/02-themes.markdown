@@ -95,8 +95,7 @@ permalink: /themes/
      ces 2%, les batteries représentent 0,5 %. Donc les batteries représentent au total 0,01% de la puissance de production... Donc on aura juste pas assez de métal sur terre 
      pour construire les batteries qu’il faudrait pour stocker les quantités nécessaires d’électricité. Par ailleurs le bilan carbone de la construction des batteries ; 
      aujourd’hui pour juste stocker 1 Kwh sur batterie, on produit entre 50 et 100 g de CO2. Restituer 1 Kwh d’électricité d’origine éolienne ou photovoltaïque, c’est 
-     équivalent à produire 100 g de carbone par Kwh d’électricité restituée. C’est mieux q’une centrale au gaz qui se situe aux environs de 400 g, ou une centrale au charbon qui 
-     se situe à 1000 g, mais moins bien qu’une centrale nucléaire qui se situe à 6 g. Quand on dit que le solaire couplé à la batterie, c’est zéro CO2, ce n’est pas vrai...
+     équivalent à produire 100 g de carbone par Kwh d’électricité restituée. C’est mieux qU’une centrale au gaz qui se situe aux environs de 400 g, ou une centrale au charbon        qui se situe à 1000 g, mais moins bien qu’une centrale nucléaire qui se situe à 6 g. Quand on dit que le solaire couplé à la batterie, c’est zéro CO2, ce n’est pas vrai...
 
      La covid19 et la crise sanitaire jouent comme un accélérateur dans cette prise de conscience des limites planétaires, du moins de certaines personnes (on ne pourra pas 
      recommencer à produire comme avant, même si on n’en prend pas vraiment le chemin aujourd’hui, du moins seulement marginalement)...
