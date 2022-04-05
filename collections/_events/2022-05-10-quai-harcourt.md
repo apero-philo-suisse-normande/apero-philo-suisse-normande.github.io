@@ -21,3 +21,5 @@ Pour cet Apéro Philo, nous vous conseillons de prendre connaisssance, au moins 
 ### 1. Yacouba Sawadogo, l’homme qui a arrêté le désert
 
 {% include youtube.html id="umpg8iC05IE" %}
+
+La prouesse de Yacouba Sawadogo au BurKina Faso. Il a réussi à arrêter la progression du désert au nord du pays alors même qu'il n'a fait aucune étude... avec l'aide des termites...
