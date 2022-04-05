@@ -16,5 +16,8 @@ place: Le Quai d'Harcourt
 * Do not remove this line (it will not be displayed) 
 {:toc}
 
+Pour cet Apéro Philo, nous vous conseillons de prendre connaisssance, au moins par la lecture des résumés de présentation, des documents ci-dessous :
 
-### 1. 
+### 1. Yacouba Sawadogo, l’homme qui a arrêté le désert
+
+{% include youtube.html id="umpg8iC05IE" %}
