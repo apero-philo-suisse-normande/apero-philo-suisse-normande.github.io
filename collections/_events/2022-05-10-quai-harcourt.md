@@ -1,6 +1,8 @@
 ---
 layout: page
-title: "De l’individuel au collectif : comment se préparer au changement climatique ?<br />Construire ensemble la sobriété à l’échelle des territoires"
+title: "De l’individuel au collectif : comment se préparer au changement climatique ?"
+
+date: 2021-01-01
 
 theme: "De l’individuel au collectif : comment se préparer au changement climatique ?"
 
