@@ -24,7 +24,7 @@ Pour cet Apéro Philo, nous vous conseillons de prendre connaisssance, au moins 
 
 La prouesse de Yacouba Sawadogo au Burkina Faso. Il a réussi à arrêter la progression du désert au nord du pays alors même qu'il n'a fait aucune étude... avec l'aide des termites...
 
-### 2. Arrêter le désert avec la Grande Muraille verte...
+### 2. Arrêter le désert avec la Grande Muraille verte
 
 {% include youtube.html id="krRwLyPYC_8" %)
 
