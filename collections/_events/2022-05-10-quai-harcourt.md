@@ -85,18 +85,31 @@ Notre co-auteur, Gonéri Le Cozannet, revient pour vous sur ce rapport et les co
  Comment devient-on co-auteur d'un rapport du GIEC ? 
  
 LES 13 POINTS CLEFS DU NOUVEAU RAPPORT DU GIEC (il n’y a plus aucun doute) : 
-1-	l’homme réchauffe l’atmosphère, les océans et les terres. Ces changements sont généralisés et rapides. 
+
+1-	l’homme réchauffe l’atmosphère, les océans et les terres. Ces changements sont généralisés et rapides.
+
 2-	Les phénomènes climatiques naturels tels qu’El Niño et La Niña continueront d’avoir un certain impact sur certaines régions à petite échelle, mais dans l’ensemble, ils auront peu d’impact sur la tendance à long terme du réchauffement de la planète. 
-3-	Comparé à un réchauffement à +1.5°C, les impacts seront plus importants avec un réchauffement de 2°C. En d’autres termes : chaque fraction de degré que nous pouvons éviter compte. 
+
+3-	Comparé à un réchauffement à +1.5°C, les impacts seront plus importants avec un réchauffement de 2°C. En d’autres termes : chaque fraction de degré que nous pouvons éviter compte.
+
 4-	Certains impacts seront irréversibles pendant des milliers d’années, comme la fonte des calottes glaciaires et l’élévation du niveau des mers. 
+
 5-	Le réchauffement des températures se poursuivra au moins jusqu’en 2050, mais nous pouvons encore éviter un réchauffement de 2°C, voire de 1,5°C, par rapport à l’ère préindustrielle si nous réduisons fortement les émissions de gaz à effet de serre très rapidement. 
-6-	Avec le réchauffement climatique, on assistera à une augmentation de la fréquence et de l’intensité des chaleurs extrêmes, des pluies diluviennes, de la sécheresse dans certaines régions, des tempêtes tropicales, ainsi qu’à une diminution de la glace de mer arctique, de la couverture neigeuse et du pergélisol (permafrost). 
+
+6-	Avec le réchauffement climatique, on assistera à une augmentation de la fréquence et de l’intensité des chaleurs extrêmes, des pluies diluviennes, de la sécheresse dans certaines régions, des tempêtes tropicales, ainsi qu’à une diminution de la glace de mer arctique, de la couverture neigeuse et du pergélisol (permafrost).
+
 7-	À l’échelle mondiale, les moussons connaîtront des extrêmes plus importants, entre humidité et sécheresse. 
+
 8-	Si les émissions de CO2 continuent d’augmenter, les océans et les terres seront de moins en moins capables d’en absorber. 
+
 9-	Même si l’effondrement des calottes glaciaires et des circulations océaniques est peu probable d’ici 2100, nous ne devons pas ignorer cette possibilité. 
-10-	Pour mettre fin au réchauffement de la planète, il faut au moins atteindre la neutralité pour le CO2 et réduire fortement les émissions des autres gaz à effet de serre 
-11-	Une réduction rapide et brutale des gaz à effet de serre peut rapidement conduire à un climat plus stable et à une meilleure qualité de l’air. 
-12-	L’ampleur des changements climatiques actuels n’a pas été observée depuis des siècles, voire des milliers d’années. 
+
+10-	Pour mettre fin au réchauffement de la planète, il faut au moins atteindre la neutralité pour le CO2 et réduire fortement les émissions des autres gaz à effet de serre.
+
+11-	Une réduction rapide et brutale des gaz à effet de serre peut rapidement conduire à un climat plus stable et à une meilleure qualité de l’air.
+
+12-	L’ampleur des changements climatiques actuels n’a pas été observée depuis des siècles, voire des milliers d’années.
+
 13-	100% du réchauffement climatique est dû aux activités humaines. C’est aujourd’hui un fait établi, sans équivoque. 
 
 
