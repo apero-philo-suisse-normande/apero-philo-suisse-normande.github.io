@@ -30,6 +30,6 @@ La prouesse de Yacouba Sawadogo au Burkina Faso. Il a réussi à arrêter la pro
 
 Cet ambitieux projet a été lancé en 2008 sous l’égide de l’Union africaine afin de ralentir la désertification et pour restaurer les écosystèmes sahéliens. En Afrique, le Sahara avance inexorablement. Les sécheresses qui se succèdent depuis les années 1960 dans la zone sahélienne, la déforestation et le surpâturage en sont les principales causes. En 2008, l’Union africaine a décidé de stopper cette avancée grâce à la Grande Muraille verte, un projet qui a pour objectif de restaurer les écosystèmes sahéliens menacés par la désertification. Cette bande de reboisement, large de 15 km et longue de 7 800 km, traverse le continent d’est en ouest, passant par onze pays. Le Sénégal fait partie des pays concernés. Mais, ici, ce projet de lutte contre la désertification est loin des ambitions annoncées. Depuis 2008, dans le nord du Sénégal, seulement 12 000 hectares ont été reboisés sur les 850 000 que le Sénégal s’était fixé de restaurer. Notre journaliste est partie à la rencontre de celui sur qui tous les espoirs sont dirigés : Haïdar El Ali, l’un des écologistes les plus respectés d’Afrique de l’Ouest, auquel le président sénégalais a fait appel pour sauver la Grande Muraille verte.
 
-### 3. Eaux rage eaux désespoir
+### 3. Eau rage, eau des espoirs
 
 {% include youtube.html id="wH9dMNWjL2s" %}
