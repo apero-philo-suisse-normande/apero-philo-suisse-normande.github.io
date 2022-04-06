@@ -47,3 +47,9 @@ Dans cette vidéo sur tableau blanc, sont expliqués ce qu’est le réchauffeme
 {% include youtube.html id="t9f39nukKBY" %}
 
 Une vidéo simple et efficace signé l'ADEME pour comprendre les causes et les conséquences du changement climatique.
+
+### 6. Présidentielle 2042 : « en 2022, on aurait pu éviter le pire » 
+
+{% include youtube.html id="Evg_V_hpdHk" %}
+
+Bienvenue en 2042, dans un monde profondément marqué et déchiré par les conséquences dramatiques du changement climatique. Et si on avait réagi plus tôt, notamment en 2022, alors qu'une élection cruciale se déroulait en France...? 
