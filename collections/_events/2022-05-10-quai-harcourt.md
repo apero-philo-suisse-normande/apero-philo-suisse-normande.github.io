@@ -107,3 +107,55 @@ LES 13 POINTS CLEFS DU NOUVEAU RAPPORT DU GIEC (il n’y a plus aucun doute) :
 Pourquoi, en dépit de l'imminence de la catastrophe climatique, ne parvenons-nous pas à changer nos modes de vie ? Y a-t-il une explication scientifique à cette inertie ? Réponse dans cette riche enquête qui révèle les surprenants réflexes du cerveau humain. 
 
 "Devant le danger, nous avons tendance à mettre la tête dans le sable" : telle est la conclusion de Tali Sharot, neuroscientifique, concernant la manière dont le cerveau humain appréhende le réchauffement climatique. Bien qu’une réelle prise de conscience des populations soit en cours – la multiplication des catastrophes naturelles et des records de chaleur aidant –, les activités humaines responsables du phénomène restent peu ou prou inchangées, comme si la menace était irréelle ou trop éloignée. Cet immobilisme collectif pourrait trouver son origine dans nos cerveaux. Nombre de biais cognitifs entravent en effet notre jugement : celui de l’optimisme, qui nous conduit à minimiser l’impact négatif d’un événement ; celui de la culture, selon lequel l’humain, au-dessus de la nature, sera toujours sauvé par le progrès technologique ; ou encore celui de la "confirmation". "Notre cerveau s’intéresse aux informations qui confirment sa vision du monde, pas à celles qui la contredisent", résume Andreas Kappes, psychologue en sciences cognitives. Ce dernier réflexe cérébral favorise la polarisation des opinions, aujourd’hui renforcée par les algorithmes des réseaux sociaux qui, en proposant des contenus liés aux préférences de leurs utilisateurs, les enferment dans une "bulle de filtres". À ces mécanismes bien peu rationnels s’ajoute le phénomène psychosocial dit "effet spectateur" : plus nous sommes nombreux à pouvoir intervenir en cas de danger, plus nous nous sentons autorisés à ne rien faire, en rejetant la responsabilité sur les autres... Nos habitudes contemporaines de consommation, ancrées dans les couches profondes de nos cerveaux et encouragées par le circuit de la récompense, constituent un frein supplémentaire à l’action. 
+
+
+### 9. Présentation du scénario négaWatt 2022
+
+{% include youtube.html id="_d7mT2l4E_w" %}
+
+Mardi 26 octobre 2021, l'Association négaWatt présentait son 5e scénario de transition énergétique pour la France.
+Ce scénario comporte deux grandes nouveautés par rapport aux précédents :
+- les émissions importées, c'est-à-dire les émissions de gaz à effet de serre engendrées par la fabrication à l’étranger de biens importés en France, sont désormais comptabilisées,
+- le scénario négaWatt est couplé à un scénario négaMat qui évalue les évolutions possibles de consommation et de production de matériaux (acier, béton, cuivre, plastiques, lithium, etc.).
+Le scénario négaWatt 2022 atteint la neutralité carbone en 2050 ainsi qu’un mix énergétique à 96 % renouvelable, tout en réduisant fortement l’extraction de matières premières dans la croûte terrestre. Il est également compatible avec l’objectif de -55 % de gaz à effet de serre fixé au niveau européen à l’horizon 2030 :
+
+ Introduction par Dominique Gauzin-Müller et Stéphane Chatelin
+
+ L’ambition d’une société plus durable et plus équitable par Yves Marignac
+
+ Bâtiment par Thierry Rieser
+
+ Mobilité par Stéphane Chatelin
+
+ Industrie et biens de consommation par Emmanuel Rauzier
+ 
+ Le "secteur des terres" : agriculture, alimentation, forêt, usage des terres
+ 
+ Électricité renouvelable par Thierry Salomon 
+  
+ Production par Yves Marignac
+ 
+ Bilan et résultats par Marc Jedliczka, Emmanuel Rauzier, Stéphane Chatelin et Charline Dufournier
+
+Toutes les ressources sur le scénario négaWatt sur le site de l'association : https://negawatt.org/Scenario-negaWat...
+
+
+### 10. Le système électrique peut-il fonctionner avec 100 % de renouvelables ?
+
+{% include youtube.html id="i3Ih-AAxELo" %}
+
+Approvisionner en électricité tous les Français requiert le respect de trois règles essentielles : sécuriser l’équilibre global entre production et consommation, assurer la stabilité du réseau en termes de puissance injectée et soutirée, maintenir le synchronisme du réseau. Un système électrique fondé sur des énergies renouvelables variables comme l’éolien et le solaire photovoltaïque, dans l’optique d’un mix électrique 100 % renouvelable en 2050, peut-il remplir ces conditions ?
+
+
+### 11. Power to gas : quelle valeur pour les réseaux ?
+
+{% include youtube.html id="CDOp1EbG2iE" %}
+
+Le "power to gas" est un outil de flexibilité permettant de rendre possible un système électrique de 100 % d'énergies renouvelables à base d'éolien et de photovoltaïque...
+
+
+### 12. Jean Marc Jancovici : ma France décarbonée !
+
+{% include youtube.html id="hoi0AbOzN8M" %}
+
+Jean-Marc Jancovici, inclassable politiquement, est un infatigable lanceur d'alerte. Cela fait des années qu'il explique que nos sociétés fondées sur les énergies fossiles sont condamnées. Ingénieur et membre du Haut conseil pour le climat, les conférences de Jean-Marc Jancovici sont suivies par des centaines de milliers de personnes. Grand témoin du jour, il nous aidera à comprendre pourquoi l'écologie ne pèse pas dans la campagne présidentielle. 
