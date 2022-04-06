@@ -63,3 +63,15 @@ Bienvenue en 2042, dans un monde profondément marqué et déchiré par les cons
 
 {% include youtube.html id="54ORVbpw7_M" %}
 
+Le rapport du groupe 2 du GIEC (6e cycle) est sorti ce 28 février 2022.
+Les auteurs y font le bilan des conséquences, impacts et risques du changement climatique.
+Ils apportent également des réponses essentielles sur les moyens de s'y adapter et de l'atténuer.
+Notre co-auteur, Gonéri Le Cozannet, revient pour vous sur ce rapport et les connaissances actuelles sur le sujet :
+ Introduction
+ Présentation de l'auteur
+ C'est quoi le rapport du GIEC ?
+ Que nous apprend le rapport du groupe 1 ?
+ Quels sont les sujets traités dans ce 2e volet ?
+ Quel est le lien entre le changement climatique et le BRGM ?
+ Sur quels sujets êtes-vous intervenu ?
+ Comment devient-on co-auteur d'un rapport du GIEC ? 
