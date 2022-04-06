@@ -45,3 +45,5 @@ Dans cette vidéo sur tableau blanc, sont expliqués ce qu’est le réchauffeme
 ### 5. 4 minutes pour tout comprendre sur le changement climatique
 
 {% include youtube.html id="t9f39nukKBY" %}
+
+Une vidéo simple et efficace signé l'ADEME pour comprendre les causes et les conséquences du changement climatique.
