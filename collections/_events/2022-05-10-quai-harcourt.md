@@ -39,3 +39,5 @@ Qu'elle soit liquide, solide ou gazeuse, l'eau est partout autour de nous. Dans 
 ### 4. Réchauffement climatique 2021 : définition, causes & top 10 solutions
 
 {% include youtube.html id="KJ2ibbF-DJ8" %}
+
+Dans cette vidéo sur tableau blanc, sont expliqués ce qu’est le réchauffement climatique et quelles en sont les causes. Est également présenté le top 10 des solutions les plus efficaces (et peut-être inattendues) selon Project Drawdown.
