@@ -45,7 +45,7 @@ Qu'elle soit liquide, solide ou gazeuse, l'eau est partout autour de nous. Dans 
 Dans cette vidéo sur tableau blanc, sont expliqués ce qu’est le réchauffement climatique et quelles en sont les causes. Est également présenté le top 10 des solutions les plus efficaces (et peut-être inattendues) selon Project Drawdown.
 
 
-### 5. 4 minutes pour tout comprendre sur le changement climatique
+### 5. 4 minutes pour tout comprendre sur le changement climatique avec l'ADEME
 
 {% include youtube.html id="t9f39nukKBY" %}
 
