@@ -136,19 +136,19 @@ Le scénario négaWatt 2022 atteint la neutralité carbone en 2050 ainsi qu’un
 
  L’ambition d’une société plus durable et plus équitable par Yves Marignac
 
- Bâtiment par Thierry Rieser
+ Le bâtiment par Thierry Rieser
 
- Mobilité par Stéphane Chatelin
+ La mobilité par Stéphane Chatelin
 
- Industrie et biens de consommation par Emmanuel Rauzier
+ L'industrie et les biens de consommation par Emmanuel Rauzier
  
  Le "secteur des terres" : agriculture, alimentation, forêt, usage des terres
  
- Électricité renouvelable par Thierry Salomon 
+ L'électricité renouvelable par Thierry Salomon 
   
- Production par Yves Marignac
+ La production par Yves Marignac
  
- Bilan et résultats par Marc Jedliczka, Emmanuel Rauzier, Stéphane Chatelin et Charline Dufournier
+ Le bilan et les résultats par Marc Jedliczka, Emmanuel Rauzier, Stéphane Chatelin et Charline Dufournier
 
 Toutes les ressources sur le scénario négaWatt sur le site de l'association : https://negawatt.org/Scenario-negaWat...
 
