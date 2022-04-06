@@ -57,3 +57,9 @@ Une vidéo simple et efficace, signée l'ADEME pour comprendre les causes et les
 {% include youtube.html id="Evg_V_hpdHk" %}
 
 Bienvenue en 2042, dans un monde profondément marqué et déchiré par les conséquences dramatiques du changement climatique. Et si on avait réagi plus tôt, notamment en 2022, alors qu'une élection cruciale se déroulait en France...? 
+
+
+### 7. Rapport du GIEC 2022 : conséquences, impacts et risques du changement climatique
+
+{% include youtube.html id="54ORVbpw7_M" %}
+
