@@ -35,3 +35,7 @@ Cet ambitieux projet a été lancé en 2008 sous l’égide de l’Union africai
 {% include youtube.html id="wH9dMNWjL2s" %}
 
 Qu'elle soit liquide, solide ou gazeuse, l'eau est partout autour de nous. Dans les fleuves qui traversent nos villes et irriguent nos champs, dans les nappes phréatiques qui alimentent nos robinets, dans les glaciers qui nourrissent les fleuves ou dans les nuages qui arrosent la terre et régénèrent les nappes phréatiques. Son cycle ininterrompu berce la vie sur Terre depuis des millénaires. Une présence si évidente qui ne doit pas nous faire oublier sa profonde fragilité.
+
+### 4. Réchauffement climatique 2021 : définition, causes & top 10 solutions
+
+{% include youtube.html id="KJ2ibbF-DJ8" %}
