@@ -83,3 +83,8 @@ Notre co-auteur, Gonéri Le Cozannet, revient pour vous sur ce rapport et les co
  Sur quels sujets êtes-vous intervenu ?
  
  Comment devient-on co-auteur d'un rapport du GIEC ? 
+ 
+
+### 8. Climat : mon cerveau fait l'autruche 
+
+{% include youtube.html id="VEM0am3cCIc" %}
