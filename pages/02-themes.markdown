@@ -116,7 +116,8 @@ permalink: /themes/
   - les jardins-forêts
     - [un jardin-forêt dans le bocage ornais](https://www.youtube.com/watch?v=VgFoUJCxJ2A)
     - [Jardin-Forêt : Une Alternative à l'Agriculture](https://www.youtube.com/watch?v=lMKYq3sMSXU)
-      L'agriculture est à la base de notre civilisation. Bien au-delà d'autres initiatives comme la permaculture, les jardins-forêts proposent une véritable révolution de nos         sociétés. Fabrice Desjours, auteur du livre « Jardins-Forêts » « Un nouvel art de vivre et de produire », y explique notamment comment créer son jardin-forêt en termes de       philosophie, de conception et de retours pratiques... Il y présente notamment une centaine d’arbres, arbustes, lianes, herbacées, originaux, souvent méconnus,                   complémentaires de fruitiers et légumes classiques... Les jardins-forêts sont par excellence, une excellente aventure à vivre et partager...
+    
+    L'agriculture est à la base de notre civilisation. Bien au-delà d'autres initiatives comme la permaculture, les jardins-forêts proposent une véritable révolution       de nos sociétés. Fabrice Desjours, auteur du livre « Jardins-Forêts » « Un nouvel art de vivre et de produire », y explique notamment comment créer son jardin-         forêt en termes de philosophie, de conception et de retours pratiques... Il y présente notamment une centaine d’arbres, arbustes, lianes, herbacées, originaux, s s     souvent méconnus, complémentaires de fruitiers et légumes classiques... Les jardins-forêts sont par excellence, une excellente aventure à vivre et partager...
 
 - Maisons autonomes
   - Maison Autoconstruite et 100% AUTONOME
