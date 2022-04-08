@@ -167,8 +167,15 @@ Approvisionner en électricité tous les Français requiert le respect de trois 
 Le "power to gas" est un outil de flexibilité permettant de rendre possible un système électrique de 100 % d'énergies renouvelables à base d'éolien et de photovoltaïque...
 
 
-### 12. Jean Marc Jancovici : ma France décarbonée !
+### 12. Jean-Marc Jancovivi : Ma France décarbonée
 
 {% include youtube.html id="hoi0AbOzN8M" %}
 
 Jean-Marc Jancovici, inclassable politiquement, est un infatigable lanceur d'alerte. Cela fait des années qu'il explique que nos sociétés fondées sur les énergies fossiles sont condamnées. Ingénieur et membre du Haut conseil pour le climat, les conférences de Jean-Marc Jancovici sont suivies par des centaines de milliers de personnes. Grand témoin du jour, il nous aidera à comprendre pourquoi l'écologie ne pèse pas dans la campagne présidentielle. 
+
+
+### 13. 6e rapport du GIEC : Elévation du niveau de la mer, impacts et vulnérabilité
+
+{% include youtube.html id="IeeHU87SRyE" %}
+
+
