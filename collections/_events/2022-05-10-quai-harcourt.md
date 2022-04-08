@@ -197,3 +197,10 @@ Professeur associé à Mines ParisTech et membre du Haut conseil pour le climat,
 {% include youtube.html id="I9tR6AAOcWo" %}
 
 Très intéressant point de vue sur le développement de la démocratie avec une mise au point d’un système délibératif à l’occasion de l’examen du déroulé de la convention citoyenne pour le climat par Cyril Dion interrogé par Jean-Marc Jancovici...
+
+
+### 16. Tout comprendre sur la déforestation
+
+{% include youtube.html id="P2pny4Nvojw" %}
+
+La déforestation contribue aux émissions de gaz à effet de serre mondiales annuelles à hauteur de 12%. La perte de forêts est également l'une des principales raisons du déclin de la biodiversité...
