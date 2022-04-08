@@ -34,7 +34,8 @@ permalink: /themes/
 
      En d’autres termes, pour sauver la planète, il faut s’inscrire durablement dans une économie de récession.
 
-     Il est impossible pour une entreprise seule d’atteindre une neutralité carbone. En effet elle est dépendante de tous les circuits économiques traditionnels. Donc      la question pour une entreprise devient : en quoi contribue-t-elle à la neutralité carbone mondiale ?
+     Il est impossible pour une entreprise seule d’atteindre une neutralité carbone. En effet elle est dépendante de tous les circuits économiques traditionnels. 
+     Donc la question pour une entreprise devient : en quoi contribue-t-elle à la neutralité carbone mondiale ?
 
      Depuis l’origine des temps jusqu’à l’invention de la machine à vapeur, l’homme a vécu dans un monde d’énergies renouvelables (ER). Ce n’est qu’environ depuis 2        siècles qu’il est passé aux énergies fossiles, émettrices de GES... Et les énergies fossiles ont servi à faire fonctionner les machines qui ont permis une              multiplication des seuls muscles de l’homme et donc du PIB mondial par un facteur de l’ordre de 200 si on compare la situation d’aujourd’hui sans machines et avec      machines nourries aux énergies fossiles. 
 
