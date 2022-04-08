@@ -73,7 +73,6 @@ permalink: /themes/
     - [Pourquoi les médias ne comprennent-ils rien aux questions d’énergie ? Jancovici face à Polony](https://www.youtube.com/watch?v=WOd9hVICzBg) 
     
     Banalités sur les énergies renouvelables, poncifs sur le nucléaire… L’écologie, un sujet trop sérieux pour les journalistes et les politiques ? Rencontre avec         Natacha Polony et Etienne Campion, journaliste à Marianne. "Le goût de la vérité n'empêche pas de prendre parti". Albert Camus 
-
   - Courants transocéaniques et climat
     - [Gulf Stream, le talon d’Achille du climat (documentaire de FR3-Thalassa)](https://www.youtube.com/watch?v=CIJJ4X0cv94)
     
