@@ -192,7 +192,7 @@ Jean-Marc Jancovici est co-fondateur de Carbone 4, entreprise de conseil spécia
 Professeur associé à Mines ParisTech et membre du Haut conseil pour le climat, diplômé de l'Ecole Polytechnique et de Télécom Paris, il a rédigé plusieurs ouvrages sur les questions de transition énergétique et de changement climatique. Son site jancovici.com illustre son goût de la transmission et de la vulgarisation alliées à la plus grande rigueur.
 
 
-### 15. Convention Citoyenne pour le Climat : quelles clés pour l'action ?
+### 15. Cyril Dion : Convention Citoyenne pour le Climat : quelles clés pour l'action ?
 
 {% include youtube.html id="I9tR6AAOcWo" %}
 
