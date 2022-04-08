@@ -180,3 +180,12 @@ Jean-Marc Jancovici, inclassable politiquement, est un infatigable lanceur d'ale
 
 Cette vidéo synthétise les principaux éléments du 6e rapport général du GIEC (AR6) concernant les risques liés à l'élévation du niveau de la mer.
 
+
+### 14. Jean-Marc Jancovici à l'ESSEC durant l'Imagination Week 2020
+
+{% include youtube.html id="iXuEiqu2ZaA" %}
+
+L’iMagination Week est un programme de l’ESSEC Business School dédié à l’imagination et à la créativité. Cette année, du 6 au 10 janvier 2020, a été proposé aux étudiants du programme Grande Ecole de se pencher sur le thème suivant : "Un monde en transition.s : de 2020 vers 2050".
+
+Jean-Marc Jancovici est co-fondateur de Carbone 4, entreprise de conseil spécialisée dans la transition vers une économie bas carbone (www.carbonne4.com). Il est également président-fondateur du think tank The Shift Project, basé à Paris, lui aussi focalisé sur l'économie bas carbone (www.theshiftproject.org). 
+Professeur associé à Mines ParisTech et membre du Haut conseil pour le climat, diplômé de l'Ecole Polytechnique et de Télécom Paris, il a rédigé plusieurs ouvrages sur les questions de transition énergétique et de changement climatique. Son site jancovici.com illustre son goût de la transmission et de la vulgarisation alliées à la plus grande rigueur.
