@@ -70,6 +70,7 @@ permalink: /themes/
      La covid19 et la crise sanitaire jouent comme un accélérateur dans cette prise de conscience des limites planétaires, du moins de certaines personnes (on ne            pourra pas recommencer à produire comme avant, même si on n’en prend pas vraiment le chemin aujourd’hui, du moins seulement marginalement)...
   - Médias
     - [Pourquoi les médias ne comprennent-ils rien aux questions d’énergie ? Jancovici face à Polony] (https://www.youtube.com/watch?v=WOd9hVICzBg) 
+    
     Banalités sur les énergies renouvelables, poncifs sur le nucléaire… L’écologie, un sujet trop sérieux pour les journalistes et les politiques ? Rencontre avec         Natacha Polony et Etienne Campion, journaliste à Marianne. "Le goût de la vérité n'empêche pas de prendre parti". Albert Camus 
 
   - Courants transocéaniques et climat
