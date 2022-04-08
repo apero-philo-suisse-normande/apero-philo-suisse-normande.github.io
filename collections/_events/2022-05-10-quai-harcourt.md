@@ -178,4 +178,5 @@ Jean-Marc Jancovici, inclassable politiquement, est un infatigable lanceur d'ale
 
 {% include youtube.html id="IeeHU87SRyE" %}
 
+Cette vidéo synthétise les principaux éléments du 6e rapport général du GIEC (AR6) concernant les risques liés à l'élévation du niveau de la mer.
 
