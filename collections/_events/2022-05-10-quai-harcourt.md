@@ -190,3 +190,10 @@ L’iMagination Week est un programme de l’ESSEC Business School dédié à l�
 
 Jean-Marc Jancovici est co-fondateur de Carbone 4, entreprise de conseil spécialisée dans la transition vers une économie bas carbone (www.carbonne4.com). Il est également président-fondateur du think tank The Shift Project, basé à Paris, lui aussi focalisé sur l'économie bas carbone (www.theshiftproject.org). 
 Professeur associé à Mines ParisTech et membre du Haut conseil pour le climat, diplômé de l'Ecole Polytechnique et de Télécom Paris, il a rédigé plusieurs ouvrages sur les questions de transition énergétique et de changement climatique. Son site jancovici.com illustre son goût de la transmission et de la vulgarisation alliées à la plus grande rigueur.
+
+
+### 15. Convention Citoyenne pour le Climat : quelles clés pour l'action ?
+
+{% include youtube.html id="I9tR6AAOcWo" %}
+
+Très intéressant point de vue sur le développement de la démocratie avec une mise au point d’un système délibératif à l’occasion de l’examen du déroulé de la convention citoyenne pour le climat par Cyril Dion interrogé par Jean-Marc Jancovici...
