@@ -210,4 +210,4 @@ La déforestation contribue aux émissions de gaz à effet de serre mondiales an
 
 {% include youtube.html id="kWpPj5hWGC4" %}
 
-Le 28 février dernier, le Groupe d’Experts Intergouvernemental sur l’Évolution du Climat (GIEC) publiait la suite de son rapport annuel, alarmant sur la progression plus rapide que prévue des effets du dérèglement climatique. Quelles solutions pour lutter contre l’inévitable ?
+Le 28 février dernier, le Groupe d’Experts Intergouvernemental sur l’Évolution du Climat (GIEC) publiait la suite de son rapport annuel, alarmant sur la progression plus rapide que prévue des effets du dérèglement climatique. Quelles solutions pour lutter contre l’inévitable ? Au menu : sobriété nécessaire, pas suffisante... progrès technique ??  
