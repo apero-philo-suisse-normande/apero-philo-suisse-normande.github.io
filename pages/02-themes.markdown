@@ -69,21 +69,25 @@ permalink: /themes/
      équivalent à produire 100 g de carbone par Kwh d’électricité restituée. C’est mieux qU’une centrale au gaz qui se situe aux environs de 400 g, ou une centrale au      charbon qui se situe à 1000 g, mais moins bien qu’une centrale nucléaire qui se situe à 6 g. Quand on dit que le solaire couplé à la batterie, c’est zéro CO2, ce      n’est pas vrai...
 
      La covid19 et la crise sanitaire jouent comme un accélérateur dans cette prise de conscience des limites planétaires, du moins de certaines personnes (on ne            pourra pas recommencer à produire comme avant, même si on n’en prend pas vraiment le chemin aujourd’hui, du moins seulement marginalement)...
+  
   - Médias
     - [Pourquoi les médias ne comprennent-ils rien aux questions d’énergie ? Jancovici face à Polony](https://www.youtube.com/watch?v=WOd9hVICzBg) 
     
     Banalités sur les énergies renouvelables, poncifs sur le nucléaire… L’écologie, un sujet trop sérieux pour les journalistes et les politiques ? Rencontre avec         Natacha Polony et Etienne Campion, journaliste à Marianne. "Le goût de la vérité n'empêche pas de prendre parti". Albert Camus 
   - Courants transocéaniques et climat
     - [Gulf Stream, le talon d’Achille du climat (documentaire de FR3-Thalassa)](https://www.youtube.com/watch?v=CIJJ4X0cv94)
+  
   - Eau
     - [L'eau sur la terre en 2025](https://www.youtube.com/watch?v=wXaAvpfiPas)
-  - Emploi
+ 
+ - Emploi
     - [Comment faire de l'emploi le moteur de la transition bas-carbone ?](https://www.youtube.com/watch?v=jgLgf6NRNPA)
     
     Yannick Saleman revient en détails sur les propositions du Plan de transformation de l'économie française pour l'emploi.
     Ce rapport s’appuie sur l’ensemble des travaux sectoriels du PTEF, l’expérience des auteurs, des recherches bibliographiques poussées, et surtout des échanges avec     des dizaines de professionnels pour présenter les évolutions quantitatives et qualitatives de l’emploi cohérentes avec la décarbonation de la France à horizon         2050. Il propose également une série de mesures concrètes à mettre en œuvre par secteur, mais aussi plus globalement : une véritable politique industrielle pour la     mise en action du PTEF dans l’économie française.
     
     Lancé en mars 2020 par le Shift Project, le PTEF ou Plan de transformation de l’économie française est un vaste programme opérationnel pour nous emmener vers la       neutralité carbone, secteur par secteur. Né dans le sillage de la crise sanitaire, ce plan vise à proposer des solutions pragmatiques pour transformer l’économie,     en la rendant moins carbonée, plus résiliente et créatrice d’emplois. Notre objectif est de convaincre un maximum de décideurs politiques et économiques de             planifier la transition, avec des propositions concrètes et chiffrées.
+
 
 - Expériences municipales
   - Démocratie participative
