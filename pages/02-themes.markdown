@@ -79,8 +79,10 @@ permalink: /themes/
     - [L'eau sur la terre en 2025](https://www.youtube.com/watch?v=wXaAvpfiPas)
   - Emploi
     - [Comment faire de l'emploi le moteur de la transition bas-carbone ?](https://www.youtube.com/watch?v=jgLgf6NRNPA)
+    
     Yannick Saleman revient en détails sur les propositions du Plan de transformation de l'économie française pour l'emploi.
     Ce rapport s’appuie sur l’ensemble des travaux sectoriels du PTEF, l’expérience des auteurs, des recherches bibliographiques poussées, et surtout des échanges avec     des dizaines de professionnels pour présenter les évolutions quantitatives et qualitatives de l’emploi cohérentes avec la décarbonation de la France à horizon         2050. Il propose également une série de mesures concrètes à mettre en œuvre par secteur, mais aussi plus globalement : une véritable politique industrielle pour la     mise en action du PTEF dans l’économie française.
+    
     Lancé en mars 2020 par le Shift Project, le PTEF ou Plan de transformation de l’économie française est un vaste programme opérationnel pour nous emmener vers la       neutralité carbone, secteur par secteur. Né dans le sillage de la crise sanitaire, ce plan vise à proposer des solutions pragmatiques pour transformer l’économie,     en la rendant moins carbonée, plus résiliente et créatrice d’emplois. Notre objectif est de convaincre un maximum de décideurs politiques et économiques de             planifier la transition, avec des propositions concrètes et chiffrées.
 
 - Expériences municipales
