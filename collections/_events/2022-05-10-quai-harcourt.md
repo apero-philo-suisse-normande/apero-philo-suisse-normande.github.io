@@ -11,7 +11,13 @@ eventdate: 2022-05-10T19:00:00+0200
 town: Thury Harcourt
 place: Le Quai d'Harcourt
 
+poster: /documents/affiches/affiche-2022-05-10.jpg
+poster-link: /documents/affiches/affiche-2022-05-10.pdf
 ---
+
+<a href="{{page.poster-link}}">
+    <img data-src="{{page.poster}}" class="lazyload" alt=""/>
+</a>
 
 
 * Do not remove this line (it will not be displayed) 
