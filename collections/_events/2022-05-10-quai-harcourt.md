@@ -174,7 +174,7 @@ Approvisionner en électricité tous les Français requiert le respect de trois 
 Le "power to gas" est un outil de flexibilité permettant de rendre possible un système électrique de 100 % d'énergies renouvelables à base d'éolien et de photovoltaïque...
 
 
-### 12. Jean-Marc Jancovivi : Ma France décarbonée
+### 12. Jean-Marc Jancovici : Ma France décarbonée
 
 {% include youtube.html id="hoi0AbOzN8M" %}
 
