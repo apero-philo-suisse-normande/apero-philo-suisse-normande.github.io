@@ -105,10 +105,10 @@ permalink: /themes/
     - [Matthieu Ricard et Jacques Attali sur l'altruisme](https://www.youtube.com/watch?v=cmMcNIVMkZU)
 
 - Alimentation
-  - plantes sauvages à cueillir
+  - Plantes sauvages à cueillir
     - [10 plantes sauvages à cueillir cet automne 2022 !](https://www.youtube.com/watch?v=ISZmvC1uXo0)
   - les champignons
-    - [Les champignons comestibles](https://www.youtube.com/watch?v=bltXottwExU)
+    - [A la découverte des champignons](https://www.youtube.com/watch?v=bltXottwExU)
 
 - Agriculture
   - Témoignages d'agriculteurs (diminution -voire suppression- des produits phytosanitaires avec les conseils des CIVAM - Centres d'initiatives pour valoriser l'agriculture et       le milieu rural)
