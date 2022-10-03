@@ -104,7 +104,7 @@ permalink: /themes/
   - Comment construire le lien qui permet de vivre en société
     - [Matthieu Ricard et Jacques Attali sur l'altruisme](https://www.youtube.com/watch?v=cmMcNIVMkZU)
 
-- alimentation
+- Alimentation
   - plantes sauvages à cueillir
     - [10 plantes sauvages à cueillir cet automne 2022 !](https://www.youtube.com/watch?v=ISZmvC1uXo0)
   - les champignons
