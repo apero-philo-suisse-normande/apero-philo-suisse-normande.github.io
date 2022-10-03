@@ -12,7 +12,7 @@ différentes mandatures. Nous souhaitons favoriser et encourager les
 initiatives et tout ce qui va dans le bon sens, notamment en aidant nos élus...**
 
 Exemples possibles :
-- Acheter une broyeuse de branchages pour faire du BRF : un achat communal pour un usage collectif.
+- Acheter une broyeuse de branchages pour faire du BRF : un achat commun pour un usage collectif.
 
 - Mutualiser d’autres outils. En plus de rendre service, c’est fédérateur et créateur de liens.
 
