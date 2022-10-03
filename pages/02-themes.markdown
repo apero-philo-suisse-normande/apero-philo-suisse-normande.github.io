@@ -107,6 +107,7 @@ permalink: /themes/
 - Alimentation
   - Plantes sauvages à cueillir
     - [10 plantes sauvages à cueillir cet automne 2022 !](https://www.youtube.com/watch?v=ISZmvC1uXo0)
+    - [Le pissenlit est un trésor](https://www.youtube.com/watch?v=gVgyiE39AIc)
   - les champignons
     - [A la découverte des champignons](https://www.youtube.com/watch?v=bltXottwExU)
 
