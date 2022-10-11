@@ -122,7 +122,7 @@ LES 13 POINTS CLEFS DU NOUVEAU RAPPORT DU GIEC (il n’y a plus aucun doute) :
 
 ### 8. Climat : pourquoi fait-on l'autruche ?
 
-{% include youtube.html id="aj1qwsgdrRU&t=42s" %}
+{% include youtube.html id="aj1qwsgdrRU" %}
 
 Pourquoi, en dépit de l'imminence de la catastrophe climatique, ne parvenons-nous pas à changer nos modes de vie ? Y a-t-il une explication scientifique à cette inertie ? Réponse ci-dessous qui révèle les surprenants réflexes du cerveau humain. 
 
