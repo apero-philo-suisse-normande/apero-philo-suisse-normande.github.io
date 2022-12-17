@@ -3,7 +3,7 @@ layout: page
 
 firstname: Caty
 lastname: Banneville
-picture: documents/caty.jpeg
+picture: documents/members/caty.jpeg
 email: caty.banneville@wanadoo.fr
 phone: 06 20 93 02 40
 ---

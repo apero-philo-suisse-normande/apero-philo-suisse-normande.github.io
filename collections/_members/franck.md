@@ -3,7 +3,7 @@ layout: page
 
 firstname: Franck
 lastname: Lecomte
-picture: documents/franck.jpeg
+picture: documents/members/franck.jpeg
 email: icifrancklecomte@gmail.com
 phone: 07 48 77 15 49
 ---

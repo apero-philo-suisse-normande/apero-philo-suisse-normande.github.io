@@ -1,7 +1,7 @@
 ---
 layout: page
 
-picture: documents/emmanuel.png
+picture: documents/members/emmanuel.png
 firstname: Emmanuel
 lastname: Becker
 phone: 06 62 49 17 50

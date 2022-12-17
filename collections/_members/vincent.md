@@ -3,7 +3,7 @@ layout: page
 
 firstname: Vincent
 lastname: Amouret
-picture: documents/vincent.jpg
+picture: documents/members/vincent.jpg
 email: vincent.amouret@gmail.com
 phone: 06 23 97 14 91
 ---

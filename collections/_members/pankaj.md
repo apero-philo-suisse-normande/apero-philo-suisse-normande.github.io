@@ -4,7 +4,7 @@ layout: page
 firstname: Pankaj
 lastname: Salley Jha
 email: savinpo@gmail.com
-picture: documents/pankaj.jpg
+picture: documents/members/pankaj.jpg
 phone: 06 46 67 70 97
 ---
 

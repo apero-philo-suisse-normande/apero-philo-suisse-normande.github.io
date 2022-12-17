@@ -3,7 +3,7 @@ layout: page
 
 firstname: Fabienne
 lastname: Antoine
-picture: documents/fabienne.jpeg
+picture: documents/members/fabienne.jpeg
 email: fabienneantoinelecomte@gmail.com
 phone: 06 03 94 04 92
 ---
