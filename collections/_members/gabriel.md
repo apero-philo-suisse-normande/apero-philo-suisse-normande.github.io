@@ -5,7 +5,7 @@ firstname: Gabriel
 lastname: Poisson
 picture: documents/members/gabriel.jpeg
 email: gabrielpoisson.st@laposte.net
-phone: 
+phone: 06 37 77 48 38
 ---
 
 Gabriel vit en Suisse Normande avec sa femme et sa fille au plus près de la nature et des coteaux de l'Orne. Enseignant de philosophie en lycée, il conçoit son métier comme une invitation à oser penser par soi-même, selon la devise des Lumières.
