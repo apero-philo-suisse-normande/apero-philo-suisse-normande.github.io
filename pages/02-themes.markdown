@@ -109,7 +109,7 @@ permalink: /themes/
     - [10 plantes sauvages à cueillir en fin de printemps](https://www.youtube.com/watch?v=Pj_ytJSBJdY)
     - [10 plantes sauvages à cueillir en été](https://www.youtube.com/watch?v=WCmxyGWNbo0)
     - [10 plantes sauvages à cueillir en automne 2022](https://www.youtube.com/watch?v=ISZmvC1uXo0)
-    - [10 plantes sauvages à cueillir cet automne 2022 !](https://www.youtube.com/watch?v=ISZmvC1uXo0
+    - [10 plantes sauvages à cueillir cet automne 2022 !](https://www.youtube.com/watch?v=ISZmvC1uXo0)
     - [Le pissenlit est un trésor](https://www.youtube.com/watch?v=gVgyiE39AIc)
   - les champignons
     - [A la découverte des champignons](https://www.youtube.com/watch?v=bltXottwExU)
