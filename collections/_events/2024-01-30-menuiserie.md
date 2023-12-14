@@ -30,7 +30,7 @@ poster-link: /documents/affiches/affiche-2024-01-30.pdf
 Des fruits et légumes plus rares, des prix à la hausse : les scientifiques s’inquiètent de la disponibilité future des variétés d’aliments que nous consommons quotidiennement. Le réchauffement climatique pourrait carrément bouleverser le contenu de notre assiette dans les prochaines décennies.
 
 
-###. La décroissance : Cauchemar ou utopie ?
+### 2. La décroissance : Cauchemar ou utopie ?
 
 {% include youtube.html id="dZJBh1jCEfI" %}
 
