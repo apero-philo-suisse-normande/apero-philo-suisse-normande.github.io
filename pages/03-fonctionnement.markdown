@@ -81,7 +81,7 @@ vidéogrammes d'intervenants de toutes sortes, sur un sujet donné, soit
 pour lancer un débat, soit pour proposer des conclusions sur un thème
 donné.
 
-*Contacts : Emmanuel Becker 06 62 49 17 50 ou Frank Lecomte 07 48 77 15 49*
+*Contacts : Emmanuel Becker 06 62 49 17 50 ou Franck Lecomte 07 48 77 15 49*
 
 [^1]: Notion morale, qui désigne l'absence de trouble dans l'âme, la
     quiétude, la tranquillité de l'esprit. C'est le but de la sagesse,
