@@ -5,8 +5,8 @@
 layout: default
 lang: fr
 
-poster: /documents/affiches/affiche-2026-02-24-small.png
-poster-link: /documents/affiches/affiche-2026-02-24.png
+poster: /documents/affiches/affiche-2026-06-09.png
+poster-link: /documents/affiches/affiche-2026-06-09.pdf
 ---
 
 <div id="values" style="">
